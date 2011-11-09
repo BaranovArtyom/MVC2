@@ -1,0 +1,3942 @@
+// !$*UTF8*$!
+{
+	1803C82A1348F06400FE76D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1803C82B1348F06400FE76D8 /* NSOperation.h */;
+		name = "NSOperation.h: 11";
+		rLen = 36;
+		rLoc = 246;
+		rType = 0;
+		vrLen = 332;
+		vrLoc = 0;
+	};
+	1803C82B1348F06400FE76D8 /* NSOperation.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSOperation.h;
+		path = /Developer4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSOperation.h;
+		sourceTree = "<absolute>";
+	};
+	1803C8411348FF6700FE76D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1803C8421348FF6700FE76D8 /* CGGeometry.h */;
+		name = "CGGeometry.h: 271";
+		rLen = 0;
+		rLoc = 8443;
+		rType = 0;
+		vrLen = 411;
+		vrLoc = 8270;
+	};
+	1803C8421348FF6700FE76D8 /* CGGeometry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGGeometry.h;
+		path = /Developer4.1/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h;
+		sourceTree = "<absolute>";
+	};
+	182676AD14582072002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4CB1858121985D500FBA724 /* Read Me About MVCNetworking.txt */;
+		name = "Read Me About MVCNetworking.txt: 120";
+		rLen = 111;
+		rLoc = 7323;
+		rType = 0;
+		vrLen = 1089;
+		vrLoc = 6928;
+	};
+	182677961458558B002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4ED96AF1215AB7F00FCCD77 /* QLogViewer.m */;
+		name = "QLogViewer.m: 9";
+		rLen = 0;
+		rLoc = 196;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 0;
+	};
+	182677A014585926002D1A22 /* AppDelegate.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = AppDelegate.m;
+		path = /Users/apple/Documents/MVCNetworking/AppDelegate.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 2678}}";
+			sepNavSelRange = "{6128, 0}";
+			sepNavVisRange = "{5841, 650}";
+		};
+		wrapsLines = 1;
+	};
+	182677A414585926002D1A22 /* PhotoGallery.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = PhotoGallery.m;
+		path = /Users/apple/Documents/MVCNetworking/Model/PhotoGallery.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 13754}}";
+			sepNavSelRange = "{4340, 17}";
+			sepNavVisRange = "{4000, 616}";
+		};
+	};
+	182677AA14585964002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 182677A414585926002D1A22 /* PhotoGallery.m */;
+		rLen = 0;
+		rLoc = 107;
+		rType = 1;
+	};
+	182677B61458598D002D1A22 /* DebugOptions.plist */ = {
+		isa = PBXFileReference;
+		name = DebugOptions.plist;
+		path = /users/apple/Documents/MVCNetworking/Logging/Settings.bundle/DebugOptions.plist;
+		sourceTree = "<absolute>";
+	};
+	182677C514585AE5002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 182677C614585AE5002D1A22 /* NetworkManager.m */;
+		rLen = 0;
+		rLoc = 47;
+		rType = 1;
+	};
+	182677C614585AE5002D1A22 /* NetworkManager.m */ = {
+		isa = PBXFileReference;
+		name = NetworkManager.m;
+		path = /Users/apple/Documents/MVCNetworking/Networking/NetworkManager.m;
+		sourceTree = "<absolute>";
+	};
+	182677D414585AF2002D1A22 /* logic.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {358, 2015}}";
+			sepNavSelRange = "{5465, 0}";
+			sepNavVisRange = "{4767, 704}";
+			sepNavWindowFrame = "{{670, 12}, {417, 464}}";
+		};
+	};
+	182677D614585AFD002D1A22 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 182677D414585AF2002D1A22 /* logic.txt */;
+	};
+	182677D714585B06002D1A22 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 182677B61458598D002D1A22 /* DebugOptions.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /users/apple/Documents/MVCNetworking/Logging/Settings.bundle/DebugOptions.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	182677D814585B06002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4ED96A21215A7FC00FCCD77 /* NetworkManager.m */;
+		name = "NetworkManager.m: 48";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 1631;
+		vrLoc = 727;
+	};
+	182677EB145866E7002D1A22 /* SetupViewController.m:200 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 182677EC145866E7002D1A22 /* SetupViewController.m */;
+		functionName = "-effectiveChoice";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 200;
+		location = MVCNetworking;
+		modificationTime = 341347902.108398;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	182677EC145866E7002D1A22 /* SetupViewController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = SetupViewController.m;
+		path = "/Users/apple/Documents/MVCNetworking/View Controllers/SetupViewController.m";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 7579}}";
+			sepNavSelRange = "{20723, 0}";
+			sepNavVisRange = "{20438, 562}";
+		};
+	};
+	1826780114586772002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 182677EC145866E7002D1A22 /* SetupViewController.m */;
+		name = "SetupViewController.m: 553";
+		rLen = 8;
+		rLoc = 20733;
+		rType = 0;
+		vrLen = 518;
+		vrLoc = 20560;
+	};
+	1826780414586772002D1A22 /* SetupViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = SetupViewController.h;
+		path = "/Users/apple/Documents/MVCNetworking/View Controllers/SetupViewController.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 585}}";
+			sepNavSelRange = "{1134, 98}";
+			sepNavVisRange = "{1018, 297}";
+		};
+	};
+	1826780514586788002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 182677D414585AF2002D1A22 /* logic.txt */;
+		name = "logic.txt: 30";
+		rLen = 0;
+		rLoc = 5482;
+		rType = 0;
+		vrLen = 1799;
+		vrLoc = 0;
+	};
+	1826780614586788002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1826780414586772002D1A22 /* SetupViewController.h */;
+		name = "SetupViewController.h: 8";
+		rLen = 27;
+		rLoc = 141;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 0;
+	};
+	1826780714586788002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1826780414586772002D1A22 /* SetupViewController.h */;
+		name = "SetupViewController.h: 8";
+		rLen = 27;
+		rLoc = 141;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 0;
+	};
+	1826780814586788002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1826780414586772002D1A22 /* SetupViewController.h */;
+		name = "SetupViewController.h: 8";
+		rLen = 27;
+		rLoc = 141;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 0;
+	};
+	1826780914586788002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1826780414586772002D1A22 /* SetupViewController.h */;
+		name = "SetupViewController.h: 8";
+		rLen = 27;
+		rLoc = 141;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 0;
+	};
+	1826780A14586788002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1826780414586772002D1A22 /* SetupViewController.h */;
+		name = "SetupViewController.h: 8";
+		rLen = 27;
+		rLoc = 141;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 0;
+	};
+	1826780B14586788002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1826780414586772002D1A22 /* SetupViewController.h */;
+		name = "SetupViewController.h: 13";
+		rLen = 27;
+		rLoc = 236;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 0;
+	};
+	1826780C14586788002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1826780414586772002D1A22 /* SetupViewController.h */;
+		name = "SetupViewController.h: 13";
+		rLen = 27;
+		rLoc = 236;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 0;
+	};
+	1826780D14586788002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1826780414586772002D1A22 /* SetupViewController.h */;
+		name = "SetupViewController.h: 27";
+		rLen = 27;
+		rLoc = 900;
+		rType = 0;
+		vrLen = 647;
+		vrLoc = 439;
+	};
+	1826780E14586788002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1826780414586772002D1A22 /* SetupViewController.h */;
+		name = "SetupViewController.h: 27";
+		rLen = 27;
+		rLoc = 900;
+		rType = 0;
+		vrLen = 647;
+		vrLoc = 439;
+	};
+	1826780F14586788002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1826780414586772002D1A22 /* SetupViewController.h */;
+		name = "SetupViewController.h: 35";
+		rLen = 27;
+		rLoc = 1036;
+		rType = 0;
+		vrLen = 647;
+		vrLoc = 439;
+	};
+	1826781014586788002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1826780414586772002D1A22 /* SetupViewController.h */;
+		name = "SetupViewController.h: 35";
+		rLen = 27;
+		rLoc = 1036;
+		rType = 0;
+		vrLen = 460;
+		vrLoc = 855;
+	};
+	1826781714587223002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E464FDEC1218858300170C0E /* SetupViewController.h */;
+		rLen = 1;
+		rLoc = 39;
+		rType = 1;
+	};
+	1826781E14587223002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 182677A014585926002D1A22 /* AppDelegate.m */;
+		rLen = 0;
+		rLoc = 173;
+		rType = 1;
+	};
+	1826782414587223002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1826782514587223002D1A22 /* PhotoGalleryContext.m */;
+		name = "PhotoGalleryContext.m: 70";
+		rLen = 0;
+		rLoc = 2404;
+		rType = 0;
+		vrLen = 291;
+		vrLoc = 2182;
+	};
+	1826782514587223002D1A22 /* PhotoGalleryContext.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = PhotoGalleryContext.m;
+		path = /Users/apple/Documents/MVCNetworking/Model/PhotoGalleryContext.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 975}}";
+			sepNavSelRange = "{1766, 0}";
+			sepNavVisRange = "{1458, 437}";
+		};
+	};
+	1826782614587223002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1826782714587223002D1A22 /* RetryingHTTPOperation.m */;
+		rLen = 0;
+		rLoc = 82;
+		rType = 1;
+	};
+	1826782714587223002D1A22 /* RetryingHTTPOperation.m */ = {
+		isa = PBXFileReference;
+		name = RetryingHTTPOperation.m;
+		path = /Users/apple/Documents/MVCNetworking/Networking/RetryingHTTPOperation.m;
+		sourceTree = "<absolute>";
+	};
+	1826782F14587390002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E45D9E650DAFDA3E00649782 /* AppDelegate.m */;
+		name = "AppDelegate.m: 13";
+		rLen = 27;
+		rLoc = 269;
+		rType = 0;
+		vrLen = 598;
+		vrLoc = 0;
+	};
+	18267854145888D2002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4ED96A11215A7FC00FCCD77 /* NetworkManager.h */;
+		name = "NetworkManager.h: 106";
+		rLen = 94;
+		rLoc = 5686;
+		rType = 0;
+		vrLen = 875;
+		vrLoc = 5162;
+	};
+	18267855145888D2002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E438FC1C121487EA00FF6CEA /* Photo.m */;
+		name = "Photo.m: 658";
+		rLen = 26;
+		rLoc = 27449;
+		rType = 0;
+		vrLen = 596;
+		vrLoc = 27002;
+	};
+	1826786414588969002D1A22 /* QHTTPOperation.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = QHTTPOperation.m;
+		path = /Users/apple/Documents/MVCNetworking/Networking/QHTTPOperation.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1174, 7579}}";
+			sepNavSelRange = "{13977, 0}";
+			sepNavVisRange = "{9009, 525}";
+		};
+	};
+	1826786814588969002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		name = "PhotoGallery.m: 717";
+		rLen = 13;
+		rLoc = 29381;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 29082;
+	};
+	1826787F14588C90002D1A22 /* QHTTPOperation.m:287 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1826786414588969002D1A22 /* QHTTPOperation.m */;
+		functionName = "-operationDidStart";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 287;
+		location = MVCNetworking;
+		modificationTime = 341347902.108821;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	182678DE14589281002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		name = "PhotoGallery.m: 717";
+		rLen = 13;
+		rLoc = 29381;
+		rType = 0;
+		vrLen = 746;
+		vrLoc = 29045;
+	};
+	182678DF14589281002D1A22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 182677D414585AF2002D1A22 /* logic.txt */;
+		name = "logic.txt: 63";
+		rLen = 0;
+		rLoc = 5465;
+		rType = 0;
+		vrLen = 704;
+		vrLoc = 4767;
+	};
+	18D62B6E13F55F6200EF5539 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4ED96AC1215AB7F00FCCD77 /* QLog.h */;
+		name = "QLog.h: 54";
+		rLen = 0;
+		rLoc = 2880;
+		rType = 0;
+		vrLen = 2340;
+		vrLoc = 0;
+	};
+	18E3A14C13F2B5D6000C4326 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4ED96AD1215AB7F00FCCD77 /* QLog.m */;
+		name = "QLog.m: 30";
+		rLen = 0;
+		rLoc = 672;
+		rType = 0;
+		vrLen = 1673;
+		vrLoc = 3559;
+	};
+	18E3A15413F2B62A000C4326 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18E3A15513F2B62A000C4326 /* AppDelegate.m */;
+		name = "AppDelegate.m: 37";
+		rLen = 0;
+		rLoc = 1018;
+		rType = 0;
+		vrLen = 697;
+		vrLoc = 799;
+	};
+	18E3A15513F2B62A000C4326 /* AppDelegate.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = AppDelegate.m;
+		path = /Users/apple/Downloads/MVCNetworking/AppDelegate.m;
+		sourceTree = "<absolute>";
+	};
+	18E3A15A13F2B62A000C4326 /* NetworkManager.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = NetworkManager.m;
+		path = /Users/apple/Downloads/MVCNetworking/Networking/NetworkManager.m;
+		sourceTree = "<absolute>";
+	};
+	18E3A18913F2B6F5000C4326 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18E3A15A13F2B62A000C4326 /* NetworkManager.m */;
+		name = "NetworkManager.m: 140";
+		rLen = 25;
+		rLoc = 5273;
+		rType = 0;
+		vrLen = 524;
+		vrLoc = 4613;
+	};
+	18E6B53C1452A85600DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 2";
+		rLen = 0;
+		rLoc = 25;
+		rType = 0;
+		vrLen = 364;
+		vrLoc = 0;
+	};
+	18E6B53D1452A85600DECCE3 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/apple/Documents/MVCNetworking/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	18E6B5631452B1AB00DECCE3 /* XDModelBookmark */ = {
+		isa = XDModelBookmark;
+		fRef = E438FC1F121487EA00FF6CEA /* Photos.xcdatamodel */;
+		fallbackIsa = PBXBookmark;
+	};
+	18E6B5881452B76F00DECCE3 /* AppDelegate.m:30 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E45D9E650DAFDA3E00649782 /* AppDelegate.m */;
+		functionName = "-applicationDidFinishLaunching:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 30;
+		location = MVCNetworking;
+		modificationTime = 341347923.181283;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B58A1452B79400DECCE3 /* AppDelegate.m:103 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E45D9E650DAFDA3E00649782 /* AppDelegate.m */;
+		functionName = "-applicationDidEnterBackground:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 103;
+		location = MVCNetworking;
+		modificationTime = 341347902.006976;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B58C1452B79A00DECCE3 /* AppDelegate.m:113 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E45D9E650DAFDA3E00649782 /* AppDelegate.m */;
+		functionName = "-applicationWillTerminate:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 113;
+		location = MVCNetworking;
+		modificationTime = 341347902.007514;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5901452B7BC00DECCE3 /* AppDelegate.m:133 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E45D9E650DAFDA3E00649782 /* AppDelegate.m */;
+		functionName = "-presentSetupViewControllerAnimated:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 133;
+		location = MVCNetworking;
+		modificationTime = 341347902.007912;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5921452B7D100DECCE3 /* AppDelegate.m:145 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E45D9E650DAFDA3E00649782 /* AppDelegate.m */;
+		functionName = "-setupViewController:didChooseString:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 145;
+		location = MVCNetworking;
+		modificationTime = 341347902.008306;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5941452B8EE00DECCE3 /* PhotoGalleryViewController.m:38 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC2E121487EB00FF6CEA /* PhotoGalleryViewController.m */;
+		functionName = "-initWithPhotoGallery:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 38;
+		location = MVCNetworking;
+		modificationTime = 341347951.852082;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5961452B91400DECCE3 /* PhotoGalleryViewController.m:118 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC2E121487EB00FF6CEA /* PhotoGalleryViewController.m */;
+		functionName = "-startFetcher";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 118;
+		location = MVCNetworking;
+		modificationTime = 341348001.189601;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5981452B92000DECCE3 /* PhotoGalleryViewController.m:156 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC2E121487EB00FF6CEA /* PhotoGalleryViewController.m */;
+		functionName = "-observeValueForKeyPath:ofObject:change:context:";
+		hitCount = 14;
+		ignoreCount = 0;
+		lineNumber = 156;
+		location = MVCNetworking;
+		modificationTime = 341348676.979753;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B59A1452B93C00DECCE3 /* PhotoGalleryViewController.m:263 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC2E121487EB00FF6CEA /* PhotoGalleryViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 263;
+		location = MVCNetworking;
+		modificationTime = 341348017.313377;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B59C1452B96800DECCE3 /* PhotoGalleryViewController.m:294 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC2E121487EB00FF6CEA /* PhotoGalleryViewController.m */;
+		functionName = "-hasNoPhotos";
+		hitCount = 7;
+		ignoreCount = 0;
+		lineNumber = 294;
+		location = MVCNetworking;
+		modificationTime = 341348747.998801;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B59E1452B97900DECCE3 /* PhotoGalleryViewController.m:313 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC2E121487EB00FF6CEA /* PhotoGalleryViewController.m */;
+		functionName = "-numberOfSectionsInTableView:";
+		hitCount = 3;
+		ignoreCount = 0;
+		lineNumber = 313;
+		location = MVCNetworking;
+		modificationTime = 341348730.804725;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5A01452B98000DECCE3 /* PhotoGalleryViewController.m:326 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC2E121487EB00FF6CEA /* PhotoGalleryViewController.m */;
+		functionName = "-tableView:numberOfRowsInSection:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 326;
+		location = MVCNetworking;
+		modificationTime = 341348734.630398;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5A21452B98D00DECCE3 /* PhotoGalleryViewController.m:347 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC2E121487EB00FF6CEA /* PhotoGalleryViewController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 347;
+		location = MVCNetworking;
+		modificationTime = 341348746.192647;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5A41452B99400DECCE3 /* PhotoGalleryViewController.m:399 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC2E121487EB00FF6CEA /* PhotoGalleryViewController.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 399;
+		location = MVCNetworking;
+		modificationTime = 341347902.013412;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5A61452B9A400DECCE3 /* PhotoGalleryViewController.m:440 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC2E121487EB00FF6CEA /* PhotoGalleryViewController.m */;
+		functionName = "-controller:didChangeObject:atIndexPath:forChangeType:newIndexPath:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 440;
+		location = MVCNetworking;
+		modificationTime = 341348933.799699;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5A81452BA9B00DECCE3 /* PhotoGalleryViewController.m:520 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC2E121487EB00FF6CEA /* PhotoGalleryViewController.m */;
+		functionName = "-stopAction:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 520;
+		location = MVCNetworking;
+		modificationTime = 341347902.030711;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5AA1452BA9D00DECCE3 /* PhotoGalleryViewController.m:526 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC2E121487EB00FF6CEA /* PhotoGalleryViewController.m */;
+		functionName = "-refreshAction:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 526;
+		location = MVCNetworking;
+		modificationTime = 341347902.031089;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5AC1452BAB400DECCE3 /* AppDelegate.m:127 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E45D9E650DAFDA3E00649782 /* AppDelegate.m */;
+		functionName = "-setupAction:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 127;
+		location = MVCNetworking;
+		modificationTime = 341347902.031417;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5B01452BAF300DECCE3 /* PhotoCell.m:12 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4CE7D761216069E00630951 /* PhotoCell.m */;
+		functionName = "-initWithReuseIdentifier:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 12;
+		location = MVCNetworking;
+		modificationTime = 341348749.290979;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5B21452BB7F00DECCE3 /* PhotoCell.m:66 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4CE7D761216069E00630951 /* PhotoCell.m */;
+		functionName = "-observeValueForKeyPath:ofObject:change:context:";
+		hitCount = 5;
+		ignoreCount = 0;
+		lineNumber = 66;
+		location = MVCNetworking;
+		modificationTime = 341348925.006201;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5B41452BBFF00DECCE3 /* PhotoDetailViewController.m:14 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4CE7DAB1216EAA400630951 /* PhotoDetailViewController.m */;
+		functionName = "-initWithPhoto:photoGallery:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 14;
+		location = MVCNetworking;
+		modificationTime = 341347902.032533;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5B61452BC8300DECCE3 /* PhotoDetailViewController.m:48 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4CE7DAB1216EAA400630951 /* PhotoDetailViewController.m */;
+		functionName = "-photoWasDeleted";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 48;
+		location = MVCNetworking;
+		modificationTime = 341347902.03292;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5B81452BCD900DECCE3 /* PhotoDetailViewController.m:61 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4CE7DAB1216EAA400630951 /* PhotoDetailViewController.m */;
+		functionName = "-contextChanged:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 61;
+		location = MVCNetworking;
+		modificationTime = 341347902.03335;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5BA1452BCE500DECCE3 /* PhotoDetailViewController.m:74 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4CE7DAB1216EAA400630951 /* PhotoDetailViewController.m */;
+		functionName = "-observeValueForKeyPath:ofObject:change:context:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 74;
+		location = MVCNetworking;
+		modificationTime = 341347902.03367;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5BC1452C56A00DECCE3 /* PhotoDetailViewController.m:130 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4CE7DAB1216EAA400630951 /* PhotoDetailViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 130;
+		location = MVCNetworking;
+		modificationTime = 341347902.034031;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5BE1452C59E00DECCE3 /* PhotoDetailViewController.m:146 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4CE7DAB1216EAA400630951 /* PhotoDetailViewController.m */;
+		functionName = "-viewWillAppear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 146;
+		location = MVCNetworking;
+		modificationTime = 341347902.034405;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5C01452C5B300DECCE3 /* PhotoDetailViewController.m:161 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4CE7DAB1216EAA400630951 /* PhotoDetailViewController.m */;
+		functionName = "-viewDidAppear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 161;
+		location = MVCNetworking;
+		modificationTime = 341347902.035339;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5C21452C60800DECCE3 /* QImageScrollView.m:55 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E46C04AD123E1A4300C22427 /* QImageScrollView.m */;
+		functionName = "-initCommon";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 55;
+		location = MVCNetworking;
+		modificationTime = 341347902.035753;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5C41452C61A00DECCE3 /* QImageScrollView.m:100 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E46C04AD123E1A4300C22427 /* QImageScrollView.m */;
+		functionName = "-layoutSubviews";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 100;
+		location = MVCNetworking;
+		modificationTime = 341347902.036175;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5C61452C69C00DECCE3 /* QImageScrollView.m:153 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E46C04AD123E1A4300C22427 /* QImageScrollView.m */;
+		functionName = "-setImage:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 153;
+		location = MVCNetworking;
+		modificationTime = 341347902.036685;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5C81452C90500DECCE3 /* SetupViewController.m:36 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E464FDED1218858300170C0E /* SetupViewController.m */;
+		functionName = "-initWithGalleryURLString:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 36;
+		location = MVCNetworking;
+		modificationTime = 341347902.037044;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5CB1452C90E00DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E45D9E640DAFDA3E00649782 /* AppDelegate.h */;
+		name = "AppDelegate.h: 22";
+		rLen = 0;
+		rLoc = 493;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 0;
+	};
+	18E6B5CD1452C90E00DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E438FC2D121487EB00FF6CEA /* PhotoGalleryViewController.h */;
+		name = "PhotoGalleryViewController.h: 45";
+		rLen = 0;
+		rLoc = 2042;
+		rType = 0;
+		vrLen = 1833;
+		vrLoc = 494;
+	};
+	18E6B5CF1452C90E00DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4CE7D751216069E00630951 /* PhotoCell.h */;
+		name = "PhotoCell.h: 23";
+		rLen = 0;
+		rLoc = 589;
+		rType = 0;
+		vrLen = 590;
+		vrLoc = 0;
+	};
+	18E6B5D11452C90E00DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4CE7DAA1216EAA400630951 /* PhotoDetailViewController.h */;
+		name = "PhotoDetailViewController.h: 13";
+		rLen = 0;
+		rLoc = 270;
+		rType = 0;
+		vrLen = 827;
+		vrLoc = 0;
+	};
+	18E6B5D21452C90E00DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4CE7DAB1216EAA400630951 /* PhotoDetailViewController.m */;
+		name = "PhotoDetailViewController.m: 190";
+		rLen = 0;
+		rLoc = 6714;
+		rType = 0;
+		vrLen = 1633;
+		vrLoc = 5299;
+	};
+	18E6B5D31452C90E00DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E46C04AC123E1A4300C22427 /* QImageScrollView.h */;
+		name = "QImageScrollView.h: 18";
+		rLen = 0;
+		rLoc = 718;
+		rType = 0;
+		vrLen = 1112;
+		vrLoc = 0;
+	};
+	18E6B5D41452C90E00DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E46C04AD123E1A4300C22427 /* QImageScrollView.m */;
+		name = "QImageScrollView.m: 149";
+		rLen = 0;
+		rLoc = 3899;
+		rType = 0;
+		vrLen = 1764;
+		vrLoc = 6393;
+	};
+	18E6B5D81452CE9F00DECCE3 /* SetupViewController.m:213 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E464FDED1218858300170C0E /* SetupViewController.m */;
+		functionName = "+keyPathsForValuesAffectingCanSave";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 213;
+		location = MVCNetworking;
+		modificationTime = 341347902.037423;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5DA1452CEAD00DECCE3 /* SetupViewController.m:228 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E464FDED1218858300170C0E /* SetupViewController.m */;
+		functionName = "-observeValueForKeyPath:ofObject:change:context:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 228;
+		location = MVCNetworking;
+		modificationTime = 341347902.037899;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5DC1452CEBA00DECCE3 /* SetupViewController.m:266 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E464FDED1218858300170C0E /* SetupViewController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 266;
+		location = MVCNetworking;
+		modificationTime = 341347902.038256;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5DE1452CEBF00DECCE3 /* SetupViewController.m:349 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E464FDED1218858300170C0E /* SetupViewController.m */;
+		functionName = "-chooseRow:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 349;
+		location = MVCNetworking;
+		modificationTime = 341347902.038698;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5E01452CF0900DECCE3 /* SetupViewController.m:512 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E464FDED1218858300170C0E /* SetupViewController.m */;
+		functionName = "-saveAction:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 512;
+		location = MVCNetworking;
+		modificationTime = 341347902.039019;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5E21452CF1100DECCE3 /* SetupViewController.m:557 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E464FDED1218858300170C0E /* SetupViewController.m */;
+		functionName = "-cancelAction:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 557;
+		location = MVCNetworking;
+		modificationTime = 341347902.03936;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5E41452CF1500DECCE3 /* SetupViewController.m:562 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E464FDED1218858300170C0E /* SetupViewController.m */;
+		functionName = "-presentModallyOn:animated:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 562;
+		location = MVCNetworking;
+		modificationTime = 341347902.0399;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5E91452CFE900DECCE3 /* PhotoGallery.m:88 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		functionName = "+applicationStartup";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 88;
+		location = MVCNetworking;
+		modificationTime = 341347925.787803;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5EB1452D02100DECCE3 /* PhotoGallery.m:223 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		functionName = "-initWithGalleryURLString:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 223;
+		location = MVCNetworking;
+		modificationTime = 341347929.56686;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5ED1452D02A00DECCE3 /* PhotoGallery.m:272 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		functionName = "-didBecomeActive:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 272;
+		location = MVCNetworking;
+		modificationTime = 341348006.111863;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5F71452F28C00DECCE3 /* PhotoGallery.m:417 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		functionName = "-setupGalleryContext";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 417;
+		location = MVCNetworking;
+		modificationTime = 341347932.239203;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5F91452F29B00DECCE3 /* PhotoGallery.m:540 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		functionName = "-start";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 540;
+		location = MVCNetworking;
+		modificationTime = 341347931.194277;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5FB1452F2A300DECCE3 /* PhotoGallery.m:566 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		functionName = "-save";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 566;
+		location = MVCNetworking;
+		modificationTime = 341348963.312585;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5FD1452F2B300DECCE3 /* PhotoGallery.m:618 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		functionName = "-stop";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 618;
+		location = MVCNetworking;
+		modificationTime = 341347902.042684;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B5FF1452F2B800DECCE3 /* PhotoGallery.m:652 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		functionName = "-syncStatus";
+		hitCount = 7;
+		ignoreCount = 0;
+		lineNumber = 652;
+		location = MVCNetworking;
+		modificationTime = 341348674.925687;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6011452F2C400DECCE3 /* PhotoGallery.m:717 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		functionName = "+automaticallyNotifiesObserversOfLastSyncError";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 717;
+		location = MVCNetworking;
+		modificationTime = 341347994.350356;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6031452F2D100DECCE3 /* PhotoGallery.m:738 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		functionName = "-startGetOperation";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 738;
+		location = MVCNetworking;
+		modificationTime = 341347937.245142;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6051452F2D500DECCE3 /* PhotoGallery.m:761 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		functionName = "-getOperationDone:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 761;
+		location = MVCNetworking;
+		modificationTime = 341348460.595666;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6071452F2D800DECCE3 /* PhotoGallery.m:785 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		functionName = "-startParserOperationWithData:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 785;
+		location = MVCNetworking;
+		modificationTime = 341348500.869557;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6091452F2DA00DECCE3 /* PhotoGallery.m:802 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		functionName = "-parserOperationDone:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 802;
+		location = MVCNetworking;
+		modificationTime = 341348583.882894;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B60B1452F2DE00DECCE3 /* PhotoGallery.m:828 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		functionName = "-checkDatabase";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 828;
+		location = MVCNetworking;
+		modificationTime = 341348653.494203;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B60D1452F2E400DECCE3 /* PhotoGallery.m:882 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		functionName = "-commitParserResults:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 882;
+		location = MVCNetworking;
+		modificationTime = 341348632.806118;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B60F1452F2EE00DECCE3 /* PhotoGallery.m:1001 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		functionName = "+keyPathsForValuesAffectingSyncing";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 1001;
+		location = MVCNetworking;
+		modificationTime = 341347961.345785;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6111452F2F700DECCE3 /* PhotoGallery.m:1012 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		functionName = "+automaticallyNotifiesObserversOfSyncState";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 1012;
+		location = MVCNetworking;
+		modificationTime = 341347988.362384;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6131452F31400DECCE3 /* PhotoGallery.m:1034 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		functionName = "-startSync";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 1034;
+		location = MVCNetworking;
+		modificationTime = 341347936.004434;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6151452F31600DECCE3 /* PhotoGallery.m:1046 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1E121487EA00FF6CEA /* PhotoGallery.m */;
+		functionName = "-stopSync";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1046;
+		location = MVCNetworking;
+		modificationTime = 341347902.058954;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6171452F35C00DECCE3 /* Photo.m:77 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1C121487EA00FF6CEA /* Photo.m */;
+		functionName = "+insertNewPhotoWithProperties:inManagedObjectContext:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 77;
+		location = MVCNetworking;
+		modificationTime = 341348643.262105;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6191452F36E00DECCE3 /* Photo.m:132 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1C121487EA00FF6CEA /* Photo.m */;
+		functionName = "-updateWithProperties:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 132;
+		location = MVCNetworking;
+		modificationTime = 341347902.05986;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B61B1452F37A00DECCE3 /* Photo.m:194 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1C121487EA00FF6CEA /* Photo.m */;
+		functionName = "-stopThumbnail";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 194;
+		location = MVCNetworking;
+		modificationTime = 341348927.196786;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B61D1452F37D00DECCE3 /* Photo.m:213 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1C121487EA00FF6CEA /* Photo.m */;
+		functionName = "-stop";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 213;
+		location = MVCNetworking;
+		modificationTime = 341347902.06148;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B61F1452F38100DECCE3 /* Photo.m:242 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1C121487EA00FF6CEA /* Photo.m */;
+		functionName = "-prepareForDeletion";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 242;
+		location = MVCNetworking;
+		modificationTime = 341347902.061972;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6211452F3B300DECCE3 /* Photo.m:289 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1C121487EA00FF6CEA /* Photo.m */;
+		functionName = "-startThumbnailGet";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 289;
+		location = MVCNetworking;
+		modificationTime = 341348775.338148;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6231452F3B700DECCE3 /* Photo.m:315 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1C121487EA00FF6CEA /* Photo.m */;
+		functionName = "-observeValueForKeyPath:ofObject:change:context:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 315;
+		location = MVCNetworking;
+		modificationTime = 341347902.062969;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6251452F3BB00DECCE3 /* Photo.m:337 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1C121487EA00FF6CEA /* Photo.m */;
+		functionName = "-thumbnailGetDone:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 337;
+		location = MVCNetworking;
+		modificationTime = 341348902.46744;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6271452F3BE00DECCE3 /* Photo.m:377 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1C121487EA00FF6CEA /* Photo.m */;
+		functionName = "-thumbnailResizeDone:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 377;
+		location = MVCNetworking;
+		modificationTime = 341348918.736125;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6291452F3C100DECCE3 /* Photo.m:400 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1C121487EA00FF6CEA /* Photo.m */;
+		functionName = "-thumbnailCommitImage:isPlaceholder:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 400;
+		location = MVCNetworking;
+		modificationTime = 341348920.830055;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B62B1452F3C800DECCE3 /* Photo.m:445 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1C121487EA00FF6CEA /* Photo.m */;
+		functionName = "-thumbnailCommitImageData:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 445;
+		location = MVCNetworking;
+		modificationTime = 341348923.590663;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B62D1452F3D300DECCE3 /* Photo.m:491 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1C121487EA00FF6CEA /* Photo.m */;
+		functionName = "-updateThumbnail";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 491;
+		location = MVCNetworking;
+		modificationTime = 341347902.070755;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B62F1452F3D900DECCE3 /* Photo.m:532 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1C121487EA00FF6CEA /* Photo.m */;
+		functionName = "-startPhotoGet";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 532;
+		location = MVCNetworking;
+		modificationTime = 341347902.071116;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6311452F3DD00DECCE3 /* Photo.m:572 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1C121487EA00FF6CEA /* Photo.m */;
+		functionName = "-photoGetDone:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 572;
+		location = MVCNetworking;
+		modificationTime = 341347902.071512;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6331452F3E800DECCE3 /* Photo.m:658 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1C121487EA00FF6CEA /* Photo.m */;
+		functionName = "+keyPathsForValuesAffectingPhotoImage";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 658;
+		location = MVCNetworking;
+		modificationTime = 341347902.07187;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6351452F3F000DECCE3 /* Photo.m:681 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1C121487EA00FF6CEA /* Photo.m */;
+		functionName = "+keyPathsForValuesAffectingPhotoGetting";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 681;
+		location = MVCNetworking;
+		modificationTime = 341347902.072361;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6371452F3FD00DECCE3 /* Photo.m:705 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC1C121487EA00FF6CEA /* Photo.m */;
+		functionName = "-updatePhoto";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 705;
+		location = MVCNetworking;
+		modificationTime = 341347902.07273;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6391452F42500DECCE3 /* PhotoGalleryContext.m:12 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4644C3612314D3F00B87652 /* PhotoGalleryContext.m */;
+		functionName = "-initWithGalleryURLString:galleryCachePath:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 12;
+		location = MVCNetworking;
+		modificationTime = 341347933.634165;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B63B1452F42900DECCE3 /* PhotoGalleryContext.m:33 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4644C3612314D3F00B87652 /* PhotoGalleryContext.m */;
+		functionName = "-photosDirectoryPath";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 33;
+		location = MVCNetworking;
+		modificationTime = 341347902.073593;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B63D1452F42C00DECCE3 /* PhotoGalleryContext.m:46 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4644C3612314D3F00B87652 /* PhotoGalleryContext.m */;
+		functionName = "-requestToGetGalleryRelativeString:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 46;
+		location = MVCNetworking;
+		modificationTime = 341348778.96108;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B63F1452F45700DECCE3 /* MakeThumbnailOperation.m:13 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E45EFC70121EBA68004CE911 /* MakeThumbnailOperation.m */;
+		functionName = "-initWithImageData:MIMEType:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 13;
+		location = MVCNetworking;
+		modificationTime = 341348905.102331;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6411452F45900DECCE3 /* MakeThumbnailOperation.m:39 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E45EFC70121EBA68004CE911 /* MakeThumbnailOperation.m */;
+		functionName = "-main";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 39;
+		location = MVCNetworking;
+		modificationTime = 341348911.05544;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6431452F46200DECCE3 /* RecursiveDeleteOperation.m:42 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4A524971219EAF9004C3B19 /* RecursiveDeleteOperation.m */;
+		functionName = "-main";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 42;
+		location = MVCNetworking;
+		modificationTime = 341347902.075142;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6451452F46800DECCE3 /* RecursiveDeleteOperation.m:23 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4A524971219EAF9004C3B19 /* RecursiveDeleteOperation.m */;
+		functionName = "-initWithPaths:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 23;
+		location = MVCNetworking;
+		modificationTime = 341347902.075525;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B64A1452F47200DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E438FC20121487EA00FF6CEA /* Thumbnail.h */;
+		name = "Thumbnail.h: 22";
+		rLen = 0;
+		rLoc = 809;
+		rType = 0;
+		vrLen = 1037;
+		vrLoc = 0;
+	};
+	18E6B64B1452F47200DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E438FC21121487EA00FF6CEA /* Thumbnail.m */;
+		name = "Thumbnail.m: 2";
+		rLen = 0;
+		rLoc = 30;
+		rType = 0;
+		vrLen = 174;
+		vrLoc = 0;
+	};
+	18E6B64C1452F47200DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4644C3512314D3F00B87652 /* PhotoGalleryContext.h */;
+		name = "PhotoGalleryContext.h: 13";
+		rLen = 0;
+		rLoc = 437;
+		rType = 0;
+		vrLen = 1725;
+		vrLoc = 0;
+	};
+	18E6B64D1452F47200DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4644C3612314D3F00B87652 /* PhotoGalleryContext.m */;
+		name = "PhotoGalleryContext.m: 9";
+		rLen = 0;
+		rLoc = 200;
+		rType = 0;
+		vrLen = 1738;
+		vrLoc = 735;
+	};
+	18E6B64E1452F47200DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E45EFC6F121EBA68004CE911 /* MakeThumbnailOperation.h */;
+		name = "MakeThumbnailOperation.h: 7";
+		rLen = 0;
+		rLoc = 176;
+		rType = 0;
+		vrLen = 1216;
+		vrLoc = 0;
+	};
+	18E6B64F1452F47200DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E45EFC70121EBA68004CE911 /* MakeThumbnailOperation.m */;
+		name = "MakeThumbnailOperation.m: 9";
+		rLen = 0;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 1892;
+		vrLoc = 2465;
+	};
+	18E6B6501452F47200DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4A524961219EAF9004C3B19 /* RecursiveDeleteOperation.h */;
+		name = "RecursiveDeleteOperation.h: 16";
+		rLen = 0;
+		rLoc = 349;
+		rType = 0;
+		vrLen = 557;
+		vrLoc = 0;
+	};
+	18E6B6511452F47200DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4A524971219EAF9004C3B19 /* RecursiveDeleteOperation.m */;
+		name = "RecursiveDeleteOperation.m: 34";
+		rLen = 0;
+		rLoc = 618;
+		rType = 0;
+		vrLen = 1096;
+		vrLoc = 114;
+	};
+	18E6B6541452F97C00DECCE3 /* RetryingHTTPOperation.m:51 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E46C04E8123E44C200C22427 /* RetryingHTTPOperation.m */;
+		functionName = "-initWithRequest:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 51;
+		location = MVCNetworking;
+		modificationTime = 341348785.036653;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6561452F9A000DECCE3 /* RetryingHTTPOperation.m:162 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E46C04E8123E44C200C22427 /* RetryingHTTPOperation.m */;
+		functionName = "-shouldRetryAfterError:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 162;
+		location = MVCNetworking;
+		modificationTime = 341347902.076273;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6581452F9A500DECCE3 /* RetryingHTTPOperation.m:206 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E46C04E8123E44C200C22427 /* RetryingHTTPOperation.m */;
+		functionName = "-retryDelayWithinRangeAtIndex:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 206;
+		location = MVCNetworking;
+		modificationTime = 341347902.076669;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B65A1452F9AB00DECCE3 /* RetryingHTTPOperation.m:237 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E46C04E8123E44C200C22427 /* RetryingHTTPOperation.m */;
+		functionName = "-operationDidStart";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 237;
+		location = MVCNetworking;
+		modificationTime = 341348792.662699;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B65C1452F9AD00DECCE3 /* RetryingHTTPOperation.m:250 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E46C04E8123E44C200C22427 /* RetryingHTTPOperation.m */;
+		functionName = "-startRequest";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 250;
+		location = MVCNetworking;
+		modificationTime = 341348805.412687;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B65E1452F9B000DECCE3 /* RetryingHTTPOperation.m:283 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E46C04E8123E44C200C22427 /* RetryingHTTPOperation.m */;
+		functionName = "-networkOperationDone:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 283;
+		location = MVCNetworking;
+		modificationTime = 341348890.133508;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6601452F9B400DECCE3 /* RetryingHTTPOperation.m:354 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E46C04E8123E44C200C22427 /* RetryingHTTPOperation.m */;
+		functionName = "-transferDidSucceed:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 354;
+		location = MVCNetworking;
+		modificationTime = 341347902.078401;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6621452F9B700DECCE3 /* RetryingHTTPOperation.m:376 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E46C04E8123E44C200C22427 /* RetryingHTTPOperation.m */;
+		functionName = "-transferDidSucceedOnRunLoopThread";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 376;
+		location = MVCNetworking;
+		modificationTime = 341347902.092128;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6641452F9BA00DECCE3 /* RetryingHTTPOperation.m:391 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E46C04E8123E44C200C22427 /* RetryingHTTPOperation.m */;
+		functionName = "-startRetryAfterTimeInterval:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 391;
+		location = MVCNetworking;
+		modificationTime = 341347902.092649;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6661452F9BD00DECCE3 /* RetryingHTTPOperation.m:405 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E46C04E8123E44C200C22427 /* RetryingHTTPOperation.m */;
+		functionName = "-retryTimerDone:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 405;
+		location = MVCNetworking;
+		modificationTime = 341347902.093115;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6681452F9BF00DECCE3 /* RetryingHTTPOperation.m:423 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E46C04E8123E44C200C22427 /* RetryingHTTPOperation.m */;
+		functionName = "-startReachabilityReachable:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 423;
+		location = MVCNetworking;
+		modificationTime = 341347902.093624;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B66A1452F9C200DECCE3 /* RetryingHTTPOperation.m:452 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E46C04E8123E44C200C22427 /* RetryingHTTPOperation.m */;
+		functionName = "-reachabilityOperationDone:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 452;
+		location = MVCNetworking;
+		modificationTime = 341347902.094035;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B66C1452F9C500DECCE3 /* RetryingHTTPOperation.m:487 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E46C04E8123E44C200C22427 /* RetryingHTTPOperation.m */;
+		functionName = "-operationWillFinish";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 487;
+		location = MVCNetworking;
+		modificationTime = 341348894.216317;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B66E1452F9CF00DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E46C04E7123E44C200C22427 /* RetryingHTTPOperation.h */;
+		name = "RetryingHTTPOperation.h: 11";
+		rLen = 33;
+		rLoc = 314;
+		rType = 0;
+		vrLen = 2607;
+		vrLoc = 2302;
+	};
+	18E6B66F1452F9CF00DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E46C04E8123E44C200C22427 /* RetryingHTTPOperation.m */;
+		name = "RetryingHTTPOperation.m: 151";
+		rLen = 0;
+		rLoc = 5224;
+		rType = 0;
+		vrLen = 1854;
+		vrLoc = 20352;
+	};
+	18E6B6721452FB3100DECCE3 /* NetworkManager.m:40 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4ED96A21215A7FC00FCCD77 /* NetworkManager.m */;
+		functionName = "-init";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 40;
+		location = MVCNetworking;
+		modificationTime = 341347927.96773;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6741452FB3500DECCE3 /* NetworkManager.m:106 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4ED96A21215A7FC00FCCD77 /* NetworkManager.m */;
+		functionName = "-requestToGetURL:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 106;
+		location = MVCNetworking;
+		modificationTime = 341348783.085052;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B67A1452FB5400DECCE3 /* NetworkManager.m:206 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4ED96A21215A7FC00FCCD77 /* NetworkManager.m */;
+		functionName = "-addOperation:toQueue:finishedTarget:action:";
+		hitCount = 6;
+		ignoreCount = 0;
+		lineNumber = 206;
+		location = MVCNetworking;
+		modificationTime = 341348909.879056;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B67C1452FB5900DECCE3 /* NetworkManager.m:282 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4ED96A21215A7FC00FCCD77 /* NetworkManager.m */;
+		functionName = "-addNetworkManagementOperation:finishedTarget:action:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 282;
+		location = MVCNetworking;
+		modificationTime = 341348786.72064;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B67E1452FB6F00DECCE3 /* NetworkManager.m:292 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4ED96A21215A7FC00FCCD77 /* NetworkManager.m */;
+		functionName = "-addNetworkTransferOperation:finishedTarget:action:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 292;
+		location = MVCNetworking;
+		modificationTime = 341348819.614079;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6801452FB7100DECCE3 /* NetworkManager.m:302 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4ED96A21215A7FC00FCCD77 /* NetworkManager.m */;
+		functionName = "-addCPUOperation:finishedTarget:action:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 302;
+		location = MVCNetworking;
+		modificationTime = 341348908.314664;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6821452FB7300DECCE3 /* NetworkManager.m:306 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4ED96A21215A7FC00FCCD77 /* NetworkManager.m */;
+		functionName = "-observeValueForKeyPath:ofObject:change:context:";
+		hitCount = 6;
+		ignoreCount = 0;
+		lineNumber = 306;
+		location = MVCNetworking;
+		modificationTime = 341348914.450995;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6841452FB7600DECCE3 /* NetworkManager.m:347 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4ED96A21215A7FC00FCCD77 /* NetworkManager.m */;
+		functionName = "-operationDone:";
+		hitCount = 6;
+		ignoreCount = 0;
+		lineNumber = 347;
+		location = MVCNetworking;
+		modificationTime = 341348916.557844;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6861452FB7D00DECCE3 /* NetworkManager.m:404 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4ED96A21215A7FC00FCCD77 /* NetworkManager.m */;
+		functionName = "-cancelOperation:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 404;
+		location = MVCNetworking;
+		modificationTime = 341348932.40936;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6881452FBA600DECCE3 /* GalleryParserOperation.m:64 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC3A1214890600FF6CEA /* GalleryParserOperation.m */;
+		functionName = "+dateFromDateString:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 64;
+		location = MVCNetworking;
+		modificationTime = 341348558.000933;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B68A1452FBAA00DECCE3 /* GalleryParserOperation.m:86 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC3A1214890600FF6CEA /* GalleryParserOperation.m */;
+		functionName = "-main";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 86;
+		location = MVCNetworking;
+		modificationTime = 341348516.885116;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B68C1452FBBC00DECCE3 /* GalleryParserOperation.m:147 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC3A1214890600FF6CEA /* GalleryParserOperation.m */;
+		functionName = "-parser:didStartElement:namespaceURI:qualifiedName:attributes:";
+		hitCount = 9;
+		ignoreCount = 0;
+		lineNumber = 147;
+		location = MVCNetworking;
+		modificationTime = 341348563.658555;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B68E1452FBC000DECCE3 /* GalleryParserOperation.m:232 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC3A1214890600FF6CEA /* GalleryParserOperation.m */;
+		functionName = "-parser:didEndElement:namespaceURI:qualifiedName:";
+		hitCount = 9;
+		ignoreCount = 0;
+		lineNumber = 232;
+		location = MVCNetworking;
+		modificationTime = 341348565.251014;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6901452FBEF00DECCE3 /* QReachabilityOperation.m:26 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4A5E32E123EDB2B0067D908 /* QReachabilityOperation.m */;
+		functionName = "-initWithHostName:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 26;
+		location = MVCNetworking;
+		modificationTime = 341347902.099766;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6921452FBF600DECCE3 /* QReachabilityOperation.m:54 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4A5E32E123EDB2B0067D908 /* QReachabilityOperation.m */;
+		functionName = "-operationDidStart";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 54;
+		location = MVCNetworking;
+		modificationTime = 341347902.100153;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6941452FC0200DECCE3 /* QReachabilityOperation.m:84 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4A5E32E123EDB2B0067D908 /* QReachabilityOperation.m */;
+		functionName = "-reachabilitySetFlags:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 84;
+		location = MVCNetworking;
+		modificationTime = 341347902.100539;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6961452FC0500DECCE3 /* QReachabilityOperation.m:94 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E4A5E32E123EDB2B0067D908 /* QReachabilityOperation.m */;
+		functionName = "-operationWillFinish";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 94;
+		location = MVCNetworking;
+		modificationTime = 341347902.100929;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6981452FCFC00DECCE3 /* QHTTPOperation.m:30 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC24121487EA00FF6CEA /* QHTTPOperation.m */;
+		functionName = "-initWithRequest:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 30;
+		location = MVCNetworking;
+		modificationTime = 341348811.842244;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B69A1452FD0200DECCE3 /* QHTTPOperation.m:53 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC24121487EA00FF6CEA /* QHTTPOperation.m */;
+		functionName = "-initWithURL:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 53;
+		location = MVCNetworking;
+		modificationTime = 341347902.101726;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B69C1452FD0F00DECCE3 /* QHTTPOperation.m:92 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC24121487EA00FF6CEA /* QHTTPOperation.m */;
+		functionName = "+automaticallyNotifiesObserversOfAuthenticationDelegate";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 92;
+		location = MVCNetworking;
+		modificationTime = 341347902.102285;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B69E1452FD3700DECCE3 /* QHTTPOperation.m:117 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC24121487EA00FF6CEA /* QHTTPOperation.m */;
+		functionName = "+automaticallyNotifiesObserversOfAcceptableStatusCodes";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 117;
+		location = MVCNetworking;
+		modificationTime = 341347902.102667;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6A01452FD4300DECCE3 /* QHTTPOperation.m:143 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC24121487EA00FF6CEA /* QHTTPOperation.m */;
+		functionName = "+automaticallyNotifiesObserversOfAcceptableContentTypes";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 143;
+		location = MVCNetworking;
+		modificationTime = 341347902.103065;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6A21452FD4B00DECCE3 /* QHTTPOperation.m:169 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC24121487EA00FF6CEA /* QHTTPOperation.m */;
+		functionName = "+automaticallyNotifiesObserversOfResponseOutputStream";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 169;
+		location = MVCNetworking;
+		modificationTime = 341347902.103473;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6A61452FD5D00DECCE3 /* QHTTPOperation.m:195 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC24121487EA00FF6CEA /* QHTTPOperation.m */;
+		functionName = "+automaticallyNotifiesObserversOfDefaultResponseSize";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 195;
+		location = MVCNetworking;
+		modificationTime = 341347902.103874;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6A81452FD8100DECCE3 /* QHTTPOperation.m:287 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC24121487EA00FF6CEA /* QHTTPOperation.m */;
+		functionName = "-operationDidStart";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 287;
+		location = MVCNetworking;
+		modificationTime = 341348852.241373;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6AA1452FD8600DECCE3 /* QHTTPOperation.m:322 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC24121487EA00FF6CEA /* QHTTPOperation.m */;
+		functionName = "-operationWillFinish";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 322;
+		location = MVCNetworking;
+		modificationTime = 341348881.700856;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6AC1452FD8800DECCE3 /* QHTTPOperation.m:352 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC24121487EA00FF6CEA /* QHTTPOperation.m */;
+		functionName = "-finishWithError:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 352;
+		location = MVCNetworking;
+		modificationTime = 341348877.764548;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6B01452FD9500DECCE3 /* QHTTPOperation.m:410 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC24121487EA00FF6CEA /* QHTTPOperation.m */;
+		functionName = "-connection:canAuthenticateAgainstProtectionSpace:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 410;
+		location = MVCNetworking;
+		modificationTime = 341347902.105484;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6B21452FD9B00DECCE3 /* QHTTPOperation.m:428 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC24121487EA00FF6CEA /* QHTTPOperation.m */;
+		functionName = "-connection:didReceiveAuthenticationChallenge:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 428;
+		location = MVCNetworking;
+		modificationTime = 341347902.105896;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6B41452FD9E00DECCE3 /* QHTTPOperation.m:448 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC24121487EA00FF6CEA /* QHTTPOperation.m */;
+		functionName = "-connection:willSendRequest:redirectResponse:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 448;
+		location = MVCNetworking;
+		modificationTime = 341348854.442133;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6B61452FDA100DECCE3 /* QHTTPOperation.m:461 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC24121487EA00FF6CEA /* QHTTPOperation.m */;
+		functionName = "-connection:didReceiveResponse:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 461;
+		location = MVCNetworking;
+		modificationTime = 341348870.243041;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6B81452FDA300DECCE3 /* QHTTPOperation.m:476 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC24121487EA00FF6CEA /* QHTTPOperation.m */;
+		functionName = "-connection:didReceiveData:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 476;
+		location = MVCNetworking;
+		modificationTime = 341348874.750933;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6BA1452FDAB00DECCE3 /* QHTTPOperation.m:567 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC24121487EA00FF6CEA /* QHTTPOperation.m */;
+		functionName = "-connectionDidFinishLoading:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 567;
+		location = MVCNetworking;
+		modificationTime = 341348876.263976;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6BC1452FDAE00DECCE3 /* QHTTPOperation.m:599 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = E438FC24121487EA00FF6CEA /* QHTTPOperation.m */;
+		functionName = "-connection:didFailWithError:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 599;
+		location = MVCNetworking;
+		modificationTime = 341347902.10796;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18E6B6C01452FDC200DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E438FC391214890600FF6CEA /* GalleryParserOperation.h */;
+		name = "GalleryParserOperation.h: 10";
+		rLen = 0;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 1451;
+		vrLoc = 0;
+	};
+	18E6B6C11452FDC200DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E438FC3A1214890600FF6CEA /* GalleryParserOperation.m */;
+		name = "GalleryParserOperation.m: 108";
+		rLen = 0;
+		rLoc = 3245;
+		rType = 0;
+		vrLen = 2498;
+		vrLoc = 9403;
+	};
+	18E6B6C21452FDC200DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4A5E32D123EDB2B0067D908 /* QReachabilityOperation.h */;
+		name = "QReachabilityOperation.h: 20";
+		rLen = 0;
+		rLoc = 709;
+		rType = 0;
+		vrLen = 1326;
+		vrLoc = 0;
+	};
+	18E6B6C31452FDC200DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4A5E32E123EDB2B0067D908 /* QReachabilityOperation.m */;
+		name = "QReachabilityOperation.m: 21";
+		rLen = 0;
+		rLoc = 525;
+		rType = 0;
+		vrLen = 1715;
+		vrLoc = 1995;
+	};
+	18E6B7DD1454A1A400DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E438FC26121487EA00FF6CEA /* QRunLoopOperation.m */;
+		name = "QRunLoopOperation.m: 82";
+		rLen = 0;
+		rLoc = 4087;
+		rType = 0;
+		vrLen = 638;
+		vrLoc = 3863;
+	};
+	18E6B7EF1454A34C00DECCE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E438FC2E121487EB00FF6CEA /* PhotoGalleryViewController.m */;
+		name = "PhotoGalleryViewController.m: 317";
+		rLen = 18;
+		rLoc = 12938;
+		rType = 0;
+		vrLen = 954;
+		vrLoc = 12741;
+	};
+	18F86C731457328B00B8F753 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E438FC25121487EA00FF6CEA /* QRunLoopOperation.h */;
+		name = "QRunLoopOperation.h: 54";
+		rLen = 0;
+		rLoc = 2109;
+		rType = 0;
+		vrLen = 785;
+		vrLoc = 1895;
+	};
+	18F86DC61457F3DA00B8F753 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4CE7D761216069E00630951 /* PhotoCell.m */;
+		name = "PhotoCell.m: 50";
+		rLen = 45;
+		rLoc = 1645;
+		rType = 0;
+		vrLen = 780;
+		vrLoc = 1273;
+	};
+	18F86DC71457F3DA00B8F753 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E438FC1D121487EA00FF6CEA /* PhotoGallery.h */;
+		name = "PhotoGallery.h: 96";
+		rLen = 13;
+		rLoc = 4695;
+		rType = 0;
+		vrLen = 872;
+		vrLoc = 4240;
+	};
+	18F86DC81457F3DA00B8F753 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E438FC23121487EA00FF6CEA /* QHTTPOperation.h */;
+		name = "QHTTPOperation.h: 115";
+		rLen = 19;
+		rLoc = 5036;
+		rType = 0;
+		vrLen = 1165;
+		vrLoc = 4442;
+	};
+	18F86DC91457F3DA00B8F753 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E438FC24121487EA00FF6CEA /* QHTTPOperation.m */;
+		name = "QHTTPOperation.m: 220";
+		rLen = 83;
+		rLoc = 6226;
+		rType = 0;
+		vrLen = 503;
+		vrLoc = 5842;
+	};
+	18F86DCA1457F3DA00B8F753 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E464FDED1218858300170C0E /* SetupViewController.m */;
+		name = "SetupViewController.m: 213";
+		rLen = 3;
+		rLoc = 8009;
+		rType = 0;
+		vrLen = 679;
+		vrLoc = 7770;
+	};
+	18F86DCC1457F3DA00B8F753 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E438FC1B121487EA00FF6CEA /* Photo.h */;
+		name = "Photo.h: 44";
+		rLen = 17;
+		rLoc = 1789;
+		rType = 0;
+		vrLen = 1096;
+		vrLoc = 1756;
+	};
+	18FF73F512A79AE900F73B4E /* MVCNetworking */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MVCNetworking;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	18FF741312A79AF000F73B4E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	18FF741412A79AF000F73B4E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1D6058900D05DD3D006BFB54 /* MVCNetworking */ = {
+		activeExec = 0;
+		executables = (
+			18FF73F512A79AE900F73B4E /* MVCNetworking */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 18FF73F512A79AE900F73B4E /* MVCNetworking */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MVCNetworking */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MVCNetworking */,
+		);
+		breakpoints = (
+			18E6B5881452B76F00DECCE3 /* AppDelegate.m:30 */,
+			18E6B58A1452B79400DECCE3 /* AppDelegate.m:103 */,
+			18E6B58C1452B79A00DECCE3 /* AppDelegate.m:113 */,
+			18E6B5901452B7BC00DECCE3 /* AppDelegate.m:133 */,
+			18E6B5921452B7D100DECCE3 /* AppDelegate.m:145 */,
+			18E6B5941452B8EE00DECCE3 /* PhotoGalleryViewController.m:38 */,
+			18E6B5961452B91400DECCE3 /* PhotoGalleryViewController.m:118 */,
+			18E6B5981452B92000DECCE3 /* PhotoGalleryViewController.m:156 */,
+			18E6B59A1452B93C00DECCE3 /* PhotoGalleryViewController.m:263 */,
+			18E6B59C1452B96800DECCE3 /* PhotoGalleryViewController.m:294 */,
+			18E6B59E1452B97900DECCE3 /* PhotoGalleryViewController.m:313 */,
+			18E6B5A01452B98000DECCE3 /* PhotoGalleryViewController.m:326 */,
+			18E6B5A21452B98D00DECCE3 /* PhotoGalleryViewController.m:347 */,
+			18E6B5A41452B99400DECCE3 /* PhotoGalleryViewController.m:399 */,
+			18E6B5A61452B9A400DECCE3 /* PhotoGalleryViewController.m:440 */,
+			18E6B5A81452BA9B00DECCE3 /* PhotoGalleryViewController.m:520 */,
+			18E6B5AA1452BA9D00DECCE3 /* PhotoGalleryViewController.m:526 */,
+			18E6B5AC1452BAB400DECCE3 /* AppDelegate.m:127 */,
+			18E6B5B01452BAF300DECCE3 /* PhotoCell.m:12 */,
+			18E6B5B21452BB7F00DECCE3 /* PhotoCell.m:66 */,
+			18E6B5B41452BBFF00DECCE3 /* PhotoDetailViewController.m:14 */,
+			18E6B5B61452BC8300DECCE3 /* PhotoDetailViewController.m:48 */,
+			18E6B5B81452BCD900DECCE3 /* PhotoDetailViewController.m:61 */,
+			18E6B5BA1452BCE500DECCE3 /* PhotoDetailViewController.m:74 */,
+			18E6B5BC1452C56A00DECCE3 /* PhotoDetailViewController.m:130 */,
+			18E6B5BE1452C59E00DECCE3 /* PhotoDetailViewController.m:146 */,
+			18E6B5C01452C5B300DECCE3 /* PhotoDetailViewController.m:161 */,
+			18E6B5C21452C60800DECCE3 /* QImageScrollView.m:55 */,
+			18E6B5C41452C61A00DECCE3 /* QImageScrollView.m:100 */,
+			18E6B5C61452C69C00DECCE3 /* QImageScrollView.m:153 */,
+			18E6B5C81452C90500DECCE3 /* SetupViewController.m:36 */,
+			18E6B5D81452CE9F00DECCE3 /* SetupViewController.m:213 */,
+			18E6B5DA1452CEAD00DECCE3 /* SetupViewController.m:228 */,
+			18E6B5DC1452CEBA00DECCE3 /* SetupViewController.m:266 */,
+			18E6B5DE1452CEBF00DECCE3 /* SetupViewController.m:349 */,
+			18E6B5E01452CF0900DECCE3 /* SetupViewController.m:512 */,
+			18E6B5E21452CF1100DECCE3 /* SetupViewController.m:557 */,
+			18E6B5E41452CF1500DECCE3 /* SetupViewController.m:562 */,
+			18E6B5E91452CFE900DECCE3 /* PhotoGallery.m:88 */,
+			18E6B5EB1452D02100DECCE3 /* PhotoGallery.m:223 */,
+			18E6B5ED1452D02A00DECCE3 /* PhotoGallery.m:272 */,
+			18E6B5F71452F28C00DECCE3 /* PhotoGallery.m:417 */,
+			18E6B5F91452F29B00DECCE3 /* PhotoGallery.m:540 */,
+			18E6B5FB1452F2A300DECCE3 /* PhotoGallery.m:566 */,
+			18E6B5FD1452F2B300DECCE3 /* PhotoGallery.m:618 */,
+			18E6B5FF1452F2B800DECCE3 /* PhotoGallery.m:652 */,
+			18E6B6011452F2C400DECCE3 /* PhotoGallery.m:717 */,
+			18E6B6031452F2D100DECCE3 /* PhotoGallery.m:738 */,
+			18E6B6051452F2D500DECCE3 /* PhotoGallery.m:761 */,
+			18E6B6071452F2D800DECCE3 /* PhotoGallery.m:785 */,
+			18E6B6091452F2DA00DECCE3 /* PhotoGallery.m:802 */,
+			18E6B60B1452F2DE00DECCE3 /* PhotoGallery.m:828 */,
+			18E6B60D1452F2E400DECCE3 /* PhotoGallery.m:882 */,
+			18E6B60F1452F2EE00DECCE3 /* PhotoGallery.m:1001 */,
+			18E6B6111452F2F700DECCE3 /* PhotoGallery.m:1012 */,
+			18E6B6131452F31400DECCE3 /* PhotoGallery.m:1034 */,
+			18E6B6151452F31600DECCE3 /* PhotoGallery.m:1046 */,
+			18E6B6171452F35C00DECCE3 /* Photo.m:77 */,
+			18E6B6191452F36E00DECCE3 /* Photo.m:132 */,
+			18E6B61B1452F37A00DECCE3 /* Photo.m:194 */,
+			18E6B61D1452F37D00DECCE3 /* Photo.m:213 */,
+			18E6B61F1452F38100DECCE3 /* Photo.m:242 */,
+			18E6B6211452F3B300DECCE3 /* Photo.m:289 */,
+			18E6B6231452F3B700DECCE3 /* Photo.m:315 */,
+			18E6B6251452F3BB00DECCE3 /* Photo.m:337 */,
+			18E6B6271452F3BE00DECCE3 /* Photo.m:377 */,
+			18E6B6291452F3C100DECCE3 /* Photo.m:400 */,
+			18E6B62B1452F3C800DECCE3 /* Photo.m:445 */,
+			18E6B62D1452F3D300DECCE3 /* Photo.m:491 */,
+			18E6B62F1452F3D900DECCE3 /* Photo.m:532 */,
+			18E6B6311452F3DD00DECCE3 /* Photo.m:572 */,
+			18E6B6331452F3E800DECCE3 /* Photo.m:658 */,
+			18E6B6351452F3F000DECCE3 /* Photo.m:681 */,
+			18E6B6371452F3FD00DECCE3 /* Photo.m:705 */,
+			18E6B6391452F42500DECCE3 /* PhotoGalleryContext.m:12 */,
+			18E6B63B1452F42900DECCE3 /* PhotoGalleryContext.m:33 */,
+			18E6B63D1452F42C00DECCE3 /* PhotoGalleryContext.m:46 */,
+			18E6B63F1452F45700DECCE3 /* MakeThumbnailOperation.m:13 */,
+			18E6B6411452F45900DECCE3 /* MakeThumbnailOperation.m:39 */,
+			18E6B6431452F46200DECCE3 /* RecursiveDeleteOperation.m:42 */,
+			18E6B6451452F46800DECCE3 /* RecursiveDeleteOperation.m:23 */,
+			18E6B6541452F97C00DECCE3 /* RetryingHTTPOperation.m:51 */,
+			18E6B6561452F9A000DECCE3 /* RetryingHTTPOperation.m:162 */,
+			18E6B6581452F9A500DECCE3 /* RetryingHTTPOperation.m:206 */,
+			18E6B65A1452F9AB00DECCE3 /* RetryingHTTPOperation.m:237 */,
+			18E6B65C1452F9AD00DECCE3 /* RetryingHTTPOperation.m:250 */,
+			18E6B65E1452F9B000DECCE3 /* RetryingHTTPOperation.m:283 */,
+			18E6B6601452F9B400DECCE3 /* RetryingHTTPOperation.m:354 */,
+			18E6B6621452F9B700DECCE3 /* RetryingHTTPOperation.m:376 */,
+			18E6B6641452F9BA00DECCE3 /* RetryingHTTPOperation.m:391 */,
+			18E6B6661452F9BD00DECCE3 /* RetryingHTTPOperation.m:405 */,
+			18E6B6681452F9BF00DECCE3 /* RetryingHTTPOperation.m:423 */,
+			18E6B66A1452F9C200DECCE3 /* RetryingHTTPOperation.m:452 */,
+			18E6B66C1452F9C500DECCE3 /* RetryingHTTPOperation.m:487 */,
+			18E6B6721452FB3100DECCE3 /* NetworkManager.m:40 */,
+			18E6B6741452FB3500DECCE3 /* NetworkManager.m:106 */,
+			18E6B67A1452FB5400DECCE3 /* NetworkManager.m:206 */,
+			18E6B67C1452FB5900DECCE3 /* NetworkManager.m:282 */,
+			18E6B67E1452FB6F00DECCE3 /* NetworkManager.m:292 */,
+			18E6B6801452FB7100DECCE3 /* NetworkManager.m:302 */,
+			18E6B6821452FB7300DECCE3 /* NetworkManager.m:306 */,
+			18E6B6841452FB7600DECCE3 /* NetworkManager.m:347 */,
+			18E6B6861452FB7D00DECCE3 /* NetworkManager.m:404 */,
+			18E6B6881452FBA600DECCE3 /* GalleryParserOperation.m:64 */,
+			18E6B68A1452FBAA00DECCE3 /* GalleryParserOperation.m:86 */,
+			18E6B68C1452FBBC00DECCE3 /* GalleryParserOperation.m:147 */,
+			18E6B68E1452FBC000DECCE3 /* GalleryParserOperation.m:232 */,
+			18E6B6901452FBEF00DECCE3 /* QReachabilityOperation.m:26 */,
+			18E6B6921452FBF600DECCE3 /* QReachabilityOperation.m:54 */,
+			18E6B6941452FC0200DECCE3 /* QReachabilityOperation.m:84 */,
+			18E6B6961452FC0500DECCE3 /* QReachabilityOperation.m:94 */,
+			18E6B6981452FCFC00DECCE3 /* QHTTPOperation.m:30 */,
+			18E6B69A1452FD0200DECCE3 /* QHTTPOperation.m:53 */,
+			18E6B69C1452FD0F00DECCE3 /* QHTTPOperation.m:92 */,
+			18E6B69E1452FD3700DECCE3 /* QHTTPOperation.m:117 */,
+			18E6B6A01452FD4300DECCE3 /* QHTTPOperation.m:143 */,
+			18E6B6A21452FD4B00DECCE3 /* QHTTPOperation.m:169 */,
+			18E6B6A61452FD5D00DECCE3 /* QHTTPOperation.m:195 */,
+			18E6B6A81452FD8100DECCE3 /* QHTTPOperation.m:287 */,
+			18E6B6AA1452FD8600DECCE3 /* QHTTPOperation.m:322 */,
+			18E6B6AC1452FD8800DECCE3 /* QHTTPOperation.m:352 */,
+			18E6B6B01452FD9500DECCE3 /* QHTTPOperation.m:410 */,
+			18E6B6B21452FD9B00DECCE3 /* QHTTPOperation.m:428 */,
+			18E6B6B41452FD9E00DECCE3 /* QHTTPOperation.m:448 */,
+			18E6B6B61452FDA100DECCE3 /* QHTTPOperation.m:461 */,
+			18E6B6B81452FDA300DECCE3 /* QHTTPOperation.m:476 */,
+			18E6B6BA1452FDAB00DECCE3 /* QHTTPOperation.m:567 */,
+			18E6B6BC1452FDAE00DECCE3 /* QHTTPOperation.m:599 */,
+			182677EB145866E7002D1A22 /* SetupViewController.m:200 */,
+			1826787F14588C90002D1A22 /* QHTTPOperation.m:287 */,
+		);
+		codeSenseManager = 18FF741412A79AF000F73B4E /* Code sense */;
+		executables = (
+			18FF73F512A79AE900F73B4E /* MVCNetworking */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA23EDF0692099D00951B8B" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					10,
+					20,
+					10,
+					10,
+					10,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					594.20849609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 341319184;
+			PBXWorkspaceStateSaveDate = 341319184;
+		};
+		perUserProjectItems = {
+			1803C82A1348F06400FE76D8 /* PBXTextBookmark */ = 1803C82A1348F06400FE76D8 /* PBXTextBookmark */;
+			1803C8411348FF6700FE76D8 /* PBXTextBookmark */ = 1803C8411348FF6700FE76D8 /* PBXTextBookmark */;
+			182676AD14582072002D1A22 /* PBXTextBookmark */ = 182676AD14582072002D1A22 /* PBXTextBookmark */;
+			182677961458558B002D1A22 /* PBXTextBookmark */ = 182677961458558B002D1A22 /* PBXTextBookmark */;
+			182677AA14585964002D1A22 /* PBXTextBookmark */ = 182677AA14585964002D1A22 /* PBXTextBookmark */;
+			182677C514585AE5002D1A22 /* PBXTextBookmark */ = 182677C514585AE5002D1A22 /* PBXTextBookmark */;
+			182677D614585AFD002D1A22 /* PBXBookmark */ = 182677D614585AFD002D1A22 /* PBXBookmark */;
+			182677D714585B06002D1A22 /* PlistBookmark */ = 182677D714585B06002D1A22 /* PlistBookmark */;
+			182677D814585B06002D1A22 /* PBXTextBookmark */ = 182677D814585B06002D1A22 /* PBXTextBookmark */;
+			1826780114586772002D1A22 /* PBXTextBookmark */ = 1826780114586772002D1A22 /* PBXTextBookmark */;
+			1826780514586788002D1A22 /* PBXTextBookmark */ = 1826780514586788002D1A22 /* PBXTextBookmark */;
+			1826780614586788002D1A22 /* PBXTextBookmark */ = 1826780614586788002D1A22 /* PBXTextBookmark */;
+			1826780714586788002D1A22 /* PBXTextBookmark */ = 1826780714586788002D1A22 /* PBXTextBookmark */;
+			1826780814586788002D1A22 /* PBXTextBookmark */ = 1826780814586788002D1A22 /* PBXTextBookmark */;
+			1826780914586788002D1A22 /* PBXTextBookmark */ = 1826780914586788002D1A22 /* PBXTextBookmark */;
+			1826780A14586788002D1A22 /* PBXTextBookmark */ = 1826780A14586788002D1A22 /* PBXTextBookmark */;
+			1826780B14586788002D1A22 /* PBXTextBookmark */ = 1826780B14586788002D1A22 /* PBXTextBookmark */;
+			1826780C14586788002D1A22 /* PBXTextBookmark */ = 1826780C14586788002D1A22 /* PBXTextBookmark */;
+			1826780D14586788002D1A22 /* PBXTextBookmark */ = 1826780D14586788002D1A22 /* PBXTextBookmark */;
+			1826780E14586788002D1A22 /* PBXTextBookmark */ = 1826780E14586788002D1A22 /* PBXTextBookmark */;
+			1826780F14586788002D1A22 /* PBXTextBookmark */ = 1826780F14586788002D1A22 /* PBXTextBookmark */;
+			1826781014586788002D1A22 /* PBXTextBookmark */ = 1826781014586788002D1A22 /* PBXTextBookmark */;
+			1826781714587223002D1A22 /* PBXTextBookmark */ = 1826781714587223002D1A22 /* PBXTextBookmark */;
+			1826781E14587223002D1A22 /* PBXTextBookmark */ = 1826781E14587223002D1A22 /* PBXTextBookmark */;
+			1826782414587223002D1A22 /* PBXTextBookmark */ = 1826782414587223002D1A22 /* PBXTextBookmark */;
+			1826782614587223002D1A22 /* PBXTextBookmark */ = 1826782614587223002D1A22 /* PBXTextBookmark */;
+			1826782F14587390002D1A22 /* PBXTextBookmark */ = 1826782F14587390002D1A22 /* PBXTextBookmark */;
+			18267854145888D2002D1A22 /* PBXTextBookmark */ = 18267854145888D2002D1A22 /* PBXTextBookmark */;
+			18267855145888D2002D1A22 /* PBXTextBookmark */ = 18267855145888D2002D1A22 /* PBXTextBookmark */;
+			1826786814588969002D1A22 /* PBXTextBookmark */ = 1826786814588969002D1A22 /* PBXTextBookmark */;
+			182678DE14589281002D1A22 /* PBXTextBookmark */ = 182678DE14589281002D1A22 /* PBXTextBookmark */;
+			182678DF14589281002D1A22 /* PBXTextBookmark */ = 182678DF14589281002D1A22 /* PBXTextBookmark */;
+			18D62B6E13F55F6200EF5539 /* PBXTextBookmark */ = 18D62B6E13F55F6200EF5539 /* PBXTextBookmark */;
+			18E3A14C13F2B5D6000C4326 /* PBXTextBookmark */ = 18E3A14C13F2B5D6000C4326 /* PBXTextBookmark */;
+			18E3A15413F2B62A000C4326 /* PBXTextBookmark */ = 18E3A15413F2B62A000C4326 /* PBXTextBookmark */;
+			18E3A18913F2B6F5000C4326 /* PBXTextBookmark */ = 18E3A18913F2B6F5000C4326 /* PBXTextBookmark */;
+			18E6B53C1452A85600DECCE3 /* PBXTextBookmark */ = 18E6B53C1452A85600DECCE3 /* PBXTextBookmark */;
+			18E6B53D1452A85600DECCE3 /* PlistBookmark */ = 18E6B53D1452A85600DECCE3 /* PlistBookmark */;
+			18E6B5631452B1AB00DECCE3 /* XDModelBookmark */ = 18E6B5631452B1AB00DECCE3 /* XDModelBookmark */;
+			18E6B5CB1452C90E00DECCE3 /* PBXTextBookmark */ = 18E6B5CB1452C90E00DECCE3 /* PBXTextBookmark */;
+			18E6B5CD1452C90E00DECCE3 /* PBXTextBookmark */ = 18E6B5CD1452C90E00DECCE3 /* PBXTextBookmark */;
+			18E6B5CF1452C90E00DECCE3 /* PBXTextBookmark */ = 18E6B5CF1452C90E00DECCE3 /* PBXTextBookmark */;
+			18E6B5D11452C90E00DECCE3 /* PBXTextBookmark */ = 18E6B5D11452C90E00DECCE3 /* PBXTextBookmark */;
+			18E6B5D21452C90E00DECCE3 /* PBXTextBookmark */ = 18E6B5D21452C90E00DECCE3 /* PBXTextBookmark */;
+			18E6B5D31452C90E00DECCE3 /* PBXTextBookmark */ = 18E6B5D31452C90E00DECCE3 /* PBXTextBookmark */;
+			18E6B5D41452C90E00DECCE3 /* PBXTextBookmark */ = 18E6B5D41452C90E00DECCE3 /* PBXTextBookmark */;
+			18E6B64A1452F47200DECCE3 /* PBXTextBookmark */ = 18E6B64A1452F47200DECCE3 /* PBXTextBookmark */;
+			18E6B64B1452F47200DECCE3 /* PBXTextBookmark */ = 18E6B64B1452F47200DECCE3 /* PBXTextBookmark */;
+			18E6B64C1452F47200DECCE3 /* PBXTextBookmark */ = 18E6B64C1452F47200DECCE3 /* PBXTextBookmark */;
+			18E6B64D1452F47200DECCE3 /* PBXTextBookmark */ = 18E6B64D1452F47200DECCE3 /* PBXTextBookmark */;
+			18E6B64E1452F47200DECCE3 /* PBXTextBookmark */ = 18E6B64E1452F47200DECCE3 /* PBXTextBookmark */;
+			18E6B64F1452F47200DECCE3 /* PBXTextBookmark */ = 18E6B64F1452F47200DECCE3 /* PBXTextBookmark */;
+			18E6B6501452F47200DECCE3 /* PBXTextBookmark */ = 18E6B6501452F47200DECCE3 /* PBXTextBookmark */;
+			18E6B6511452F47200DECCE3 /* PBXTextBookmark */ = 18E6B6511452F47200DECCE3 /* PBXTextBookmark */;
+			18E6B66E1452F9CF00DECCE3 /* PBXTextBookmark */ = 18E6B66E1452F9CF00DECCE3 /* PBXTextBookmark */;
+			18E6B66F1452F9CF00DECCE3 /* PBXTextBookmark */ = 18E6B66F1452F9CF00DECCE3 /* PBXTextBookmark */;
+			18E6B6C01452FDC200DECCE3 /* PBXTextBookmark */ = 18E6B6C01452FDC200DECCE3 /* PBXTextBookmark */;
+			18E6B6C11452FDC200DECCE3 /* PBXTextBookmark */ = 18E6B6C11452FDC200DECCE3 /* PBXTextBookmark */;
+			18E6B6C21452FDC200DECCE3 /* PBXTextBookmark */ = 18E6B6C21452FDC200DECCE3 /* PBXTextBookmark */;
+			18E6B6C31452FDC200DECCE3 /* PBXTextBookmark */ = 18E6B6C31452FDC200DECCE3 /* PBXTextBookmark */;
+			18E6B7DD1454A1A400DECCE3 /* PBXTextBookmark */ = 18E6B7DD1454A1A400DECCE3 /* PBXTextBookmark */;
+			18E6B7EF1454A34C00DECCE3 /* PBXTextBookmark */ = 18E6B7EF1454A34C00DECCE3 /* PBXTextBookmark */;
+			18F86C731457328B00B8F753 /* PBXTextBookmark */ = 18F86C731457328B00B8F753 /* PBXTextBookmark */;
+			18F86DC61457F3DA00B8F753 /* PBXTextBookmark */ = 18F86DC61457F3DA00B8F753 /* PBXTextBookmark */;
+			18F86DC71457F3DA00B8F753 /* PBXTextBookmark */ = 18F86DC71457F3DA00B8F753 /* PBXTextBookmark */;
+			18F86DC81457F3DA00B8F753 /* PBXTextBookmark */ = 18F86DC81457F3DA00B8F753 /* PBXTextBookmark */;
+			18F86DC91457F3DA00B8F753 /* PBXTextBookmark */ = 18F86DC91457F3DA00B8F753 /* PBXTextBookmark */;
+			18F86DCA1457F3DA00B8F753 /* PBXTextBookmark */ = 18F86DCA1457F3DA00B8F753 /* PBXTextBookmark */;
+			18F86DCC1457F3DA00B8F753 /* PBXTextBookmark */ = 18F86DCC1457F3DA00B8F753 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 18FF741312A79AF000F73B4E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {944, 595}}";
+			sepNavSelRange = "{25, 0}";
+			sepNavVisRange = "{0, 364}";
+		};
+	};
+	E438FC1B121487EA00FF6CEA /* Photo.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{129, 1042}\";\n            s = 0;\n        },\n                {\n            r = \"{4136, 463}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 4795}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {831, 975}}";
+			sepNavSelRange = "{748, 17}";
+			sepNavVisRange = "{715, 1096}";
+		};
+	};
+	E438FC1C121487EA00FF6CEA /* Photo.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 9906}}";
+			sepNavSelRange = "{8059, 0}";
+			sepNavVisRange = "{7759, 590}";
+		};
+	};
+	E438FC1D121487EA00FF6CEA /* PhotoGallery.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{3162, 335}\";\n            s = 0;\n        },\n                {\n            r = \"{3550, 155}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 5112}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {831, 1339}}";
+			sepNavSelRange = "{4137, 0}";
+			sepNavVisRange = "{1679, 368}";
+		};
+	};
+	E438FC1E121487EA00FF6CEA /* PhotoGallery.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {566, 14014}}";
+			sepNavSelRange = "{29381, 13}";
+			sepNavVisRange = "{29045, 746}";
+			sepNavWindowFrame = "{{50, 50}, {1098, 728}}";
+		};
+	};
+	E438FC1F121487EA00FF6CEA /* Photos.xcdatamodel */ = {
+		uiCtxt = {
+			"Xdesign Model Editor Bookmark Key" = {
+				UIContextForDetailArea = {
+					_indexOfSelectedPane = 0;
+					_indexOfSelectedView = 0;
+				};
+				UIContextForEntityArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnns = (
+						"ET Entity",
+						"ET Abstract",
+						"ET Class",
+					);
+					chosenTableColumnns_sortDirections = (
+						YES,
+					);
+					chosenTableColumnns_sortKeys = (
+						name,
+					);
+					chosenTableColumnns_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidths = (
+						103.000000,
+						22.000000,
+						32.080078,
+					);
+				};
+				UIContextForLayoutManager = {
+					detailSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {419, 220}}",
+							"{{424, 0}, {221, 220}}",
+						);
+					};
+					diagramSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {645, 220}}",
+							"{{0, 225}, {645, 365}}",
+						);
+					};
+					tableSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {137, 220}}",
+							"{{142, 0}, {277, 220}}",
+						);
+					};
+				};
+				UIContextForPropertyArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnnFRTs = (
+						"FT Fetch Request",
+						"FT Predicate",
+					);
+					chosenTableColumnnFRTs_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnFRTs_sortKeys = (
+						name,
+					);
+					chosenTableColumnnFRTs_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsAT = (
+						"AT Attribute",
+						"AT Type",
+					);
+					chosenTableColumnnsAT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsAT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsAT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsFPT = (
+						"FP FetchedProperty",
+						"FP Destination",
+						"FP Predicate",
+					);
+					chosenTableColumnnsFPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsFPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsFPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsPT = (
+						"PT Property",
+						"PT Kind",
+						"PT SharedKeyOne",
+					);
+					chosenTableColumnnsPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsRT = (
+						"RT Relationship",
+						"RT Destination",
+					);
+					chosenTableColumnnsRT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsRT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsRT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidthsAT = (
+						128.000000,
+						64.000000,
+					);
+					chosenTableWidthsFPT = (
+						128.000000,
+						64.000000,
+						144.764160,
+					);
+					chosenTableWidthsFRT = (
+						128.000000,
+						249.764160,
+					);
+					chosenTableWidthsPT = (
+						128.000000,
+						108.110840,
+						96.570801,
+					);
+					chosenTableWidthsRT = (
+						128.000000,
+						64.000000,
+					);
+				};
+				"xdesign model browser state key - shown/hidden" = 1;
+				"xdesign model diagram view visible rect key" = "{{0, -126}, {630, 350}}";
+			};
+			sepNavWindowFrame = "{{714, -116}, {750, 721}}";
+		};
+	};
+	E438FC20121487EA00FF6CEA /* Thumbnail.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 598}}";
+			sepNavSelRange = "{809, 0}";
+			sepNavVisRange = "{0, 1037}";
+		};
+	};
+	E438FC21121487EA00FF6CEA /* Thumbnail.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 598}}";
+			sepNavSelRange = "{30, 0}";
+			sepNavVisRange = "{0, 174}";
+		};
+	};
+	E438FC23121487EA00FF6CEA /* QHTTPOperation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {622, 2626}}";
+			sepNavSelRange = "{5036, 19}";
+			sepNavVisRange = "{4442, 1165}";
+		};
+	};
+	E438FC24121487EA00FF6CEA /* QHTTPOperation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 8034}}";
+			sepNavSelRange = "{6226, 83}";
+			sepNavVisRange = "{5842, 503}";
+		};
+	};
+	E438FC25121487EA00FF6CEA /* QRunLoopOperation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {596, 1144}}";
+			sepNavSelRange = "{2109, 0}";
+			sepNavVisRange = "{1895, 785}";
+		};
+	};
+	E438FC26121487EA00FF6CEA /* QRunLoopOperation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {675, 3848}}";
+			sepNavSelRange = "{4087, 0}";
+			sepNavVisRange = "{3863, 638}";
+			sepNavWindowFrame = "{{15, 53}, {750, 721}}";
+		};
+	};
+	E438FC2D121487EB00FF6CEA /* PhotoGalleryViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {790, 741}}";
+			sepNavSelRange = "{1394, 0}";
+			sepNavVisRange = "{1015, 585}";
+		};
+	};
+	E438FC2E121487EB00FF6CEA /* PhotoGalleryViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {861, 6929}}";
+			sepNavSelRange = "{6520, 0}";
+			sepNavVisRange = "{6346, 665}";
+		};
+	};
+	E438FC391214890600FF6CEA /* GalleryParserOperation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 598}}";
+			sepNavSelRange = "{241, 0}";
+			sepNavVisRange = "{0, 1451}";
+		};
+	};
+	E438FC3A1214890600FF6CEA /* GalleryParserOperation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 3354}}";
+			sepNavSelRange = "{3245, 0}";
+			sepNavVisRange = "{9403, 2498}";
+		};
+	};
+	E45D9E640DAFDA3E00649782 /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1e+07, 338}}";
+			sepNavSelRange = "{19, 11}";
+			sepNavVisRange = "{0, 284}";
+			sepNavWindowFrame = "{{15, 59}, {750, 719}}";
+		};
+	};
+	E45D9E650DAFDA3E00649782 /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 2873}}";
+			sepNavSelRange = "{942, 0}";
+			sepNavVisRange = "{681, 395}";
+			sepNavWindowFrame = "{{15, 62}, {750, 716}}";
+		};
+	};
+	E45EFC6F121EBA68004CE911 /* MakeThumbnailOperation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 598}}";
+			sepNavSelRange = "{176, 0}";
+			sepNavVisRange = "{0, 1216}";
+		};
+	};
+	E45EFC70121EBA68004CE911 /* MakeThumbnailOperation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 1703}}";
+			sepNavSelRange = "{167, 0}";
+			sepNavVisRange = "{2465, 1892}";
+		};
+	};
+	E4644C3512314D3F00B87652 /* PhotoGalleryContext.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {929, 520}}";
+			sepNavSelRange = "{437, 0}";
+			sepNavVisRange = "{676, 628}";
+		};
+	};
+	E4644C3612314D3F00B87652 /* PhotoGalleryContext.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {861, 988}}";
+			sepNavSelRange = "{1766, 0}";
+			sepNavVisRange = "{1502, 398}";
+		};
+	};
+	E464FDEC1218858300170C0E /* SetupViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {861, 598}}";
+			sepNavSelRange = "{1142, 19}";
+			sepNavVisRange = "{939, 376}";
+		};
+	};
+	E464FDED1218858300170C0E /* SetupViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {861, 7618}}";
+			sepNavSelRange = "{7958, 0}";
+			sepNavVisRange = "{7770, 582}";
+		};
+	};
+	E46C04AC123E1A4300C22427 /* QImageScrollView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {663, 598}}";
+			sepNavSelRange = "{718, 0}";
+			sepNavVisRange = "{0, 1112}";
+		};
+	};
+	E46C04AD123E1A4300C22427 /* QImageScrollView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {628, 3458}}";
+			sepNavSelRange = "{3899, 0}";
+			sepNavVisRange = "{6393, 1764}";
+		};
+	};
+	E46C04E7123E44C200C22427 /* RetryingHTTPOperation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 1300}}";
+			sepNavSelRange = "{314, 33}";
+			sepNavVisRange = "{2302, 2607}";
+		};
+	};
+	E46C04E8123E44C200C22427 /* RetryingHTTPOperation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 7072}}";
+			sepNavSelRange = "{20594, 0}";
+			sepNavVisRange = "{20262, 570}";
+		};
+	};
+	E4A524961219EAF9004C3B19 /* RecursiveDeleteOperation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 598}}";
+			sepNavSelRange = "{349, 0}";
+			sepNavVisRange = "{0, 557}";
+			sepNavWindowFrame = "{{15, 59}, {750, 719}}";
+		};
+	};
+	E4A524971219EAF9004C3B19 /* RecursiveDeleteOperation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 832}}";
+			sepNavSelRange = "{618, 0}";
+			sepNavVisRange = "{114, 1096}";
+		};
+	};
+	E4A5E32D123EDB2B0067D908 /* QReachabilityOperation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1104, 598}}";
+			sepNavSelRange = "{709, 0}";
+			sepNavVisRange = "{0, 1326}";
+		};
+	};
+	E4A5E32E123EDB2B0067D908 /* QReachabilityOperation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 1469}}";
+			sepNavSelRange = "{525, 0}";
+			sepNavVisRange = "{1995, 1715}";
+		};
+	};
+	E4CB1858121985D500FBA724 /* Read Me About MVCNetworking.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 4550}}";
+			sepNavSelRange = "{7323, 111}";
+			sepNavVisRange = "{6928, 1089}";
+		};
+	};
+	E4CE7D751216069E00630951 /* PhotoCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1e+07, 340}}";
+			sepNavSelRange = "{589, 0}";
+			sepNavVisRange = "{0, 590}";
+		};
+	};
+	E4CE7D761216069E00630951 /* PhotoCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {596, 1807}}";
+			sepNavSelRange = "{1645, 45}";
+			sepNavVisRange = "{1273, 780}";
+		};
+	};
+	E4CE7DAA1216EAA400630951 /* PhotoDetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {635, 598}}";
+			sepNavSelRange = "{270, 0}";
+			sepNavVisRange = "{0, 827}";
+		};
+	};
+	E4CE7DAB1216EAA400630951 /* PhotoDetailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {628, 2847}}";
+			sepNavSelRange = "{6714, 0}";
+			sepNavVisRange = "{5299, 1633}";
+		};
+	};
+	E4ED96A11215A7FC00FCCD77 /* NetworkManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {566, 1859}}";
+			sepNavSelRange = "{5686, 94}";
+			sepNavVisRange = "{5162, 875}";
+		};
+	};
+	E4ED96A21215A7FC00FCCD77 /* NetworkManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 6097}}";
+			sepNavSelRange = "{17594, 0}";
+			sepNavVisRange = "{17309, 458}";
+			sepNavWindowFrame = "{{15, 52}, {750, 721}}";
+		};
+	};
+	E4ED96AB1215AB7F00FCCD77 /* Logging.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {932, 586}}";
+			sepNavSelRange = "{233, 0}";
+			sepNavVisRange = "{0, 256}";
+		};
+	};
+	E4ED96AC1215AB7F00FCCD77 /* QLog.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{2341, 492}\";\n            s = 0;\n        },\n                {\n            r = \"{3292, 209}\";\n            s = 0;\n        },\n                {\n            r = \"{3654, 302}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 4073}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {831, 767}}";
+			sepNavSelRange = "{2262, 10}";
+			sepNavVisRange = "{1927, 1003}";
+		};
+	};
+	E4ED96AD1215AB7F00FCCD77 /* QLog.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1104, 7202}}";
+			sepNavSelRange = "{7361, 43}";
+			sepNavVisRange = "{7186, 345}";
+		};
+	};
+	E4ED96AE1215AB7F00FCCD77 /* QLogViewer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {932, 586}}";
+			sepNavSelRange = "{389, 0}";
+			sepNavVisRange = "{0, 476}";
+		};
+	};
+	E4ED96AF1215AB7F00FCCD77 /* QLogViewer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 6643}}";
+			sepNavSelRange = "{196, 0}";
+			sepNavVisRange = "{0, 554}";
+		};
+	};
+}

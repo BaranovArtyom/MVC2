@@ -1,0 +1,79 @@
+1 check and delete galery cache
+2 Add an observer to the network manager's networkInUse property; 
+ Starting up the NetworkManager singleton.
+3 create queues(net mngmnt, net transfer, CPU queue, );
+Create two dictionaries to store the target and action for each queued operation
+4 Create and configure secondary thread (for net callbacks)
+5 Get the current gallery URL and, if it's not nil, create a gallery object for it.
+6  Set up the main view to display the gallery (if any)
+7 Add an observer to the QLog's showViewer property
+8 Add an observer for our own (PhotoGalleryViewController) photoGallery property, so that we can adjust our UI  when it changes
+9 If there's no new gallery.  We call -setupStatusLabel and -setupSyncBarButtonItem directly, and these methods configure us to display the placeholder UI.
+10   If the user hasn't configured the app, push the setup view controller.
+11 initWithGalleryURLString (galleryURLString may be nil) (Get the current list of choices, or start with the defaults; Eliminate anything that doesn't look like a URL); Get the current choice; 
+12 Add an observer to update the enabled state on the Save button;  Creates and returns a set containing the objects in a given argument list (@"otherChoice", @"choiceIndex")
+13 Set up the cell (SetupViewController)
+14 SetupViewController shows list of gallary's URL
+15 Choose the specified row.  This updates both the UI (that is, the checkmark  accessory view) and our choiceIndex property.
+16 Uncheck the currently checked cell, change the choice, and then recheck the newly checked cell
+17 user taps the Save button (Returns the current choice displayed in the UI, which is either one of the selected choices or the string from the "other" row);  Commit the choice of gallery to the network manager
+18 A setup view controller delegate (AppDelegate) callback, called when the user chooses  a gallery URL string.  We respond by reconfiguring the app to display that  gallery.
+18.1 Disconnect the view controller from the current gallery
+19 PhotoGallery initWithGalleryURLString (All is done  in -start)
+
+20 PhotoGallery start ( Starts up the gallery: finds or creates a cache database (setupGalleryContext) and kicks off the initial  sync)
+20.1 Attempt to start up the gallery cache for our gallery URL string, either by finding an existing  cache or by creating one from scratch.  On success, self.galleryCachePath will point to that  gallery cache and self.galleryContext will be the managed object context for the database  within the gallery cache. (Start up Core Data in the gallery directory; create a managed object context from our persistent  store)
+20.2 Subscribe to the context changed notification so that we can auto-save
+20.3 If all went well, start the syncing processing (startSync) (Force a sync to start right now.  Does nothing if a sync is already in progres)
+20.4 Starts the HTTP operation to GET the photo gallery's XML   (Returns a mutable request that's configured to do an HTTP GET operation for a resources with the given path relative to the galleryURLString.  If path is nil, returns a request for the galleryURLString resource  itself.  This can return fail (and return nil) if path is not nil and  yet not a valid URL path.)
+20.4.1 Call down to the network manager so that it can set up its stuff  (notably the user agent string)
+20.4.2 enqueue an operation on a queue
+20.4.3 Atomically enter the operation into our target and action maps
+20.4.4 Observe the isFinished property of the operation
+20.4.5 Queue the operation.  When the operation completes, -operationDone: is called.
+
+
+ANOTHER THREAD 
+ Core state transitions
+1 operationDidStart - Called by QRunLoopOperation when the operation starts.  We just kick off the  initial HTTP request.
+2 startRequest - Starts the HTTP request.  This might be the first request or a retry.
+2.1 Create the network operation
+2.2 Copy our properties over to the network operation
+2.3 addNetworkTransferOperation
+2.4 enqueue an operation on a queue
+2.5 Update our networkInUse property; because we can be running on any thread, we  do this update on the main thread
+2.6 Atomically enter the operation into our target and action maps
+2.7 Observe the isFinished property of the operation.  We pass the queue parameter as the  context so that, in the completion routine, we know what queue the operation was sent  to
+2.8 Queue the operation.  When the operation completes, -operationDone: is called
+3 Start and finish overrides
+3.1 QHTTPOperation operationDidStart (Called by QRunLoopOperation when the operation starts.  This kicks of an  asynchronous NSURLConnection)
+3.2 Create a connection that's scheduled in the required run loop modes
+3.3 Latches the request and response in lastRequest and lastResponse.
+
+
+
+21  Install a bunch of KVO observers to track various chunks of state and update our UI accordingly.  Note that these have NSKeyValueObservingOptionInitial set, so our  -observeValueForKeyPath:xxx method is called immediately to set up the initial  state.
+22 Set up the fetched results controller that provides the data for our table (Starts the fetch results controller that provides the data for our table)
+23  And reload the table to account for any possible change
+
+24 PhotoGalleryViewController viewDidLoad
+25 syncStatus (Updating...)
+26 TableView wrangling
+26.1 The table view callbacks use "hasNoPhotos" extensively  to determine whether to show a placeholder ("No photos") or real content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

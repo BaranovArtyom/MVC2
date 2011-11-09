@@ -1,0 +1,188 @@
+TMVCNetworking
+v7
+r1
+cCheck dependencies
+
+N/Users/apple/Downloads/MVCNetworking/Images/Icon-72.png
+c000000004CA5CA740000000000000427
+t1285933684
+s1063
+
+N/Users/apple/Downloads/MVCNetworking/Images/Icon-Small-50.png
+c000000004CA5CA7400000000000003E0
+t1285933684
+s992
+
+N/Users/apple/Downloads/MVCNetworking/Images/Icon-Small.png
+c000000004CA5CA740000000000000396
+t1285933684
+s918
+
+N/Users/apple/Downloads/MVCNetworking/Images/Icon-Small@2x.png
+c000000004CA5CA7400000000000003F2
+t1285933684
+s1010
+
+N/Users/apple/Downloads/MVCNetworking/Images/Icon.png
+c000000004CA5CA7400000000000003EF
+t1285933684
+s1007
+
+N/Users/apple/Downloads/MVCNetworking/Images/Icon@2x.png
+c000000004CA5CA7400000000000004E4
+t1285933684
+s1252
+
+N/Users/apple/Downloads/MVCNetworking/Images/Placeholder-Bad.png
+c000000004CA5CA740000000000000900
+t1285933684
+s2304
+
+N/Users/apple/Downloads/MVCNetworking/Images/Placeholder-Deferred.png
+c000000004CA5CA740000000000000897
+t1285933684
+s2199
+
+N/Users/apple/Downloads/MVCNetworking/Images/Placeholder.png
+c000000004CA5CA74000000000000042D
+t1285933684
+s1069
+
+N/Users/apple/Downloads/MVCNetworking/Images/iTunesArtwork
+c000000004CA5CA740000000000001444
+t1285933684
+s5188
+
+N/Users/apple/Downloads/MVCNetworking/Logging/Settings.bundle
+c000000004D05AA2000000000000000EE
+t1292216864
+s238
+
+N/Users/apple/Downloads/MVCNetworking/MainWindow.xib
+c000000004D846AF7000000000000559A
+t1300523767
+s21914
+
+N/Users/apple/Downloads/MVCNetworking/View Controllers/PhotoDetailViewController.xib
+c000000004D846A6000000000000047B7
+t1300523616
+s18359
+
+N/Users/apple/Downloads/MVCNetworking/build/Debug/MVCNetworking.app
+t2
+s0
+
+N/Users/apple/Downloads/MVCNetworking/build/Debug/MVCNetworking.app/Contents/Info.plist
+t2
+s0
+
+N/Users/apple/Downloads/MVCNetworking/build/Debug/MVCNetworking.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/apple/Downloads/MVCNetworking/build/Debug/MVCNetworking.app/Contents/Resources/Icon-72.png
+t2
+s0
+
+N/Users/apple/Downloads/MVCNetworking/build/Debug/MVCNetworking.app/Contents/Resources/Icon-Small-50.png
+t2
+s0
+
+N/Users/apple/Downloads/MVCNetworking/build/Debug/MVCNetworking.app/Contents/Resources/Icon-Small.png
+t2
+s0
+
+N/Users/apple/Downloads/MVCNetworking/build/Debug/MVCNetworking.app/Contents/Resources/Icon-Small@2x.png
+t2
+s0
+
+N/Users/apple/Downloads/MVCNetworking/build/Debug/MVCNetworking.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/apple/Downloads/MVCNetworking/build/Debug/MVCNetworking.app/Contents/Resources/Icon@2x.png
+t2
+s0
+
+N/Users/apple/Downloads/MVCNetworking/build/Debug/MVCNetworking.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/apple/Downloads/MVCNetworking/build/Debug/MVCNetworking.app/Contents/Resources/PhotoDetailViewController.nib
+t2
+s0
+
+N/Users/apple/Downloads/MVCNetworking/build/Debug/MVCNetworking.app/Contents/Resources/Placeholder-Bad.png
+t2
+s0
+
+N/Users/apple/Downloads/MVCNetworking/build/Debug/MVCNetworking.app/Contents/Resources/Placeholder-Deferred.png
+t2
+s0
+
+N/Users/apple/Downloads/MVCNetworking/build/Debug/MVCNetworking.app/Contents/Resources/Placeholder.png
+t2
+s0
+
+N/Users/apple/Downloads/MVCNetworking/build/Debug/MVCNetworking.app/Contents/Resources/Settings.bundle
+t2
+s0
+
+N/Users/apple/Downloads/MVCNetworking/build/Debug/MVCNetworking.app/Contents/Resources/iTunesArtwork
+t2
+s0
+
+NInfo.plist
+c000000004CA5CA740000000000000447
+t1285933684
+s1095
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323892878#323892878#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.1'1(4@58"error: There is no SDK with the name or path 'iphoneos4.1'323892878#18446744073709551615#0#0(1@0"0(0#1#0"8609452832#0"0#
+
+CCompileXIB "/Users/apple/Downloads/MVCNetworking/View Controllers/PhotoDetailViewController.xib"
+r0
+
+CCompileXIB /Users/apple/Downloads/MVCNetworking/MainWindow.xib
+r0
+
+CCpResource build/Debug/MVCNetworking.app/Contents/Resources/Icon-72.png Images/Icon-72.png
+r0
+
+CCpResource build/Debug/MVCNetworking.app/Contents/Resources/Icon-Small-50.png Images/Icon-Small-50.png
+r0
+
+CCpResource build/Debug/MVCNetworking.app/Contents/Resources/Icon-Small.png Images/Icon-Small.png
+r0
+
+CCpResource build/Debug/MVCNetworking.app/Contents/Resources/Icon-Small@2x.png Images/Icon-Small@2x.png
+r0
+
+CCpResource build/Debug/MVCNetworking.app/Contents/Resources/Icon.png Images/Icon.png
+r0
+
+CCpResource build/Debug/MVCNetworking.app/Contents/Resources/Icon@2x.png Images/Icon@2x.png
+r0
+
+CCpResource build/Debug/MVCNetworking.app/Contents/Resources/Placeholder-Bad.png Images/Placeholder-Bad.png
+r0
+
+CCpResource build/Debug/MVCNetworking.app/Contents/Resources/Placeholder-Deferred.png Images/Placeholder-Deferred.png
+r0
+
+CCpResource build/Debug/MVCNetworking.app/Contents/Resources/Placeholder.png Images/Placeholder.png
+r0
+
+CCpResource build/Debug/MVCNetworking.app/Contents/Resources/Settings.bundle Logging/Settings.bundle
+r0
+
+CCpResource build/Debug/MVCNetworking.app/Contents/Resources/iTunesArtwork Images/iTunesArtwork
+r0
+
+CProcessInfoPlistFile /Users/apple/Downloads/MVCNetworking/build/Debug/MVCNetworking.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/apple/Downloads/MVCNetworking/build/Debug/MVCNetworking.app
+r0
+
